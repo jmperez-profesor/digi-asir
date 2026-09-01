@@ -11,8 +11,8 @@
 | **S6** | ✅ `completed` | Ciberseguridad Básica | Contenidos teóricos y prácticos (UD02) |
 | **S7** | ✅ `completed` | Automatización e IA | Talleres y notebooks (UD03) |
 | **S8** | ✅ `completed` | Sostenibilidad Digital | Teoría y prácticas verdes (UD04) |
-| **S9** | 🔵 `in_progress` | Banco de pruebas escritas | Pruebas de evaluación con soluciones |
-| **S10** | ⬜ `pending` | Especificación Moodle | Inventario y análisis de brechas |
+| **S9** | ✅ `completed` | Banco de pruebas escritas | Pruebas de evaluación con soluciones |
+| **S10** | 🔵 `in_progress` | Especificación Moodle | Inventario y análisis de brechas |
 | **S11** | ⬜ `pending` | QA final y mejoras | Audit de enlaces, build y PROPUESTAS_MEJORA.md |
 
 ## Historial de Decisiones
@@ -24,6 +24,7 @@
 - **2026-09-01**: Desarrollo de los contenidos teóricos y prácticos de la UD02 (Ciberseguridad Básica y Privacidad).
 - **2026-09-01**: Desarrollo de los contenidos teóricos y prácticos de la UD03 (Automatización, IA y Cuadernos Jupyter).
 - **2026-09-01**: Desarrollo de los contenidos teóricos y prácticos de la UD04 (Sostenibilidad Digital y Tecnologías Verdes).
+- **2026-09-01**: Creación del Banco de Pruebas Escritas y Soluciones por Resultado de Aprendizaje (Sesión 9).
 
 ## Convenciones del Proyecto
 - Nomenclatura de unidades: `UD00`, `UD01`, `UD02`, etc.
