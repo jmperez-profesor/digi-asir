@@ -12,8 +12,8 @@
 | **S7** | ✅ `completed` | Automatización e IA | Talleres y notebooks (UD03) |
 | **S8** | ✅ `completed` | Sostenibilidad Digital | Teoría y prácticas verdes (UD04) |
 | **S9** | ✅ `completed` | Banco de pruebas escritas | Pruebas de evaluación con soluciones |
-| **S10** | 🔵 `in_progress` | Especificación Moodle | Inventario y análisis de brechas |
-| **S11** | ⬜ `pending` | QA final y mejoras | Audit de enlaces, build y PROPUESTAS_MEJORA.md |
+| **S10** | ✅ `completed` | Especificación Moodle | Inventario y análisis de brechas |
+| **S11** | 🔵 `in_progress` | QA final y mejoras | Audit de enlaces, build y PROPUESTAS_MEJORA.md |
 
 ## Historial de Decisiones
 - **2026-09-01**: Inicio del proyecto bajo el módulo 1665 — Digitalización aplicada a los sectores productivos (2º ASIR, Comunitat Valenciana). Configuración de la estructura de directorios y plan maestro.
@@ -25,6 +25,7 @@
 - **2026-09-01**: Desarrollo de los contenidos teóricos y prácticos de la UD03 (Automatización, IA y Cuadernos Jupyter).
 - **2026-09-01**: Desarrollo de los contenidos teóricos y prácticos de la UD04 (Sostenibilidad Digital y Tecnologías Verdes).
 - **2026-09-01**: Creación del Banco de Pruebas Escritas y Soluciones por Resultado de Aprendizaje (Sesión 9).
+- **2026-09-01**: Especificación del curso Moodle y análisis de brechas (Sesión 10).
 
 ## Convenciones del Proyecto
 - Nomenclatura de unidades: `UD00`, `UD01`, `UD02`, etc.
