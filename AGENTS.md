@@ -9,8 +9,8 @@
 | **S4** | ✅ `completed` | UD00: Presentación y Entorno | Teoría y guía de herramientas |
 | **S5** | ✅ `completed` | UD01: Transformación Digital | Teoría y casos prácticos |
 | **S6** | ✅ `completed` | UD02: Ciberseguridad Básica | Contenidos teóricos y prácticos |
-| **S7** | 🔵 `in_progress` | UD03: Automatización e IA | Talleres y notebooks |
-| **S8** | ⬜ `pending` | UD04: Sostenibilidad Digital | Teoría y prácticas verdes |
+| **S7** | ✅ `completed` | UD03: Automatización e IA | Talleres y notebooks |
+| **S8** | 🔵 `in_progress` | UD04: Sostenibilidad Digital | Teoría y prácticas verdes |
 | **S9** | ⬜ `pending` | Banco de pruebas escritas | Pruebas de evaluación con soluciones |
 | **S10** | ⬜ `pending` | Especificación Moodle | Inventario y análisis de brechas |
 | **S11** | ⬜ `pending` | QA final y mejoras | Audit de enlaces, build y PROPUESTAS_MEJORA.md |
@@ -21,7 +21,8 @@
 - **2026-09-01**: Configuración del esqueleto MkDocs con Material theme, plugins de optimización/fechas y despliegue automatizado mediante GitHub Actions (`.github/workflows/deploy.yml`).
 - **2026-09-01**: Desarrollo de los contenidos teóricos y prácticos de la UD00 (Presentación y Entorno de Trabajo).
 - **2026-09-01**: Desarrollo de los contenidos teóricos y prácticos de la UD01 (Transformación Digital y Sectores Productivos).
-- **2026-09-01**: Desarrollo de los contenidos teóricos y prácticos de la UD02 (Ciberseguridad Básica y Privacidad).
+- **2026-09-01**: Desarrollo de losポーツ teóricos y prácticos de la UD02 (Ciberseguridad Básica y Privacidad).
+- **2026-09-01**: Desarrollo de los contenidos teóricos y prácticos de la UD03 (Automatización, IA y Cuadernos Jupyter).
 
 ## Convenciones del Proyecto
 - Nomenclatura de unidades: `UD00`, `UD01`, `UD02`, etc.
