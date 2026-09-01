@@ -1,0 +1,96 @@
+site_name: "Digitalización Aplicada a los Sectores Productivos (2º ASIR)"
+site_url: "https://jmperez-profesor.github.io/digi-asir/"
+site_author: "Profesorado ASIR"
+site_description: "Apuntes y recursos didácticos para el módulo 1665 — Digitalización aplicada a los sectores productivos (2º ASIR)."
+
+repo_url: "https://github.com/jmperez-profesor/digi-asir"
+repo_name: "jmperez-profesor/digi-asir"
+
+copyright: "Copyright &copy; 2026 Profesorado ASIR — Licencia CC BY-NC-SA 4.0"
+
+theme:
+  name: material
+  language: es
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: deep orange
+      toggle:
+        icon: material/brightness-7
+        name: Cambiar a modo oscuro
+    - scheme: slate
+      primary: indigo
+      accent: deep orange
+      toggle:
+        icon: material/brightness-4
+        name: Cambiar a modo claro
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - content.tabs.link
+
+plugins:
+  - search
+  - git-revision-date-localized:
+      locale: es
+      fallback_to_build_date: true
+  - minify:
+      minify_html: true
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - meta
+  - toc:
+      permalink: true
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.betterem:
+      smart_enable: true
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
+nav:
+  - Inicio: index.md
+  - Normativa y Currículo: normativa/index.md
+  - Unidades Didácticas:
+    - "UD00: Presentación y Entorno": UD00/index.md
+    - "UD01: Transformación Digital": UD01/index.md
+    - "UD02: Ciberseguridad Básica": UD02/index.md
+    - "UD03: Automatización e IA": UD03/index.md
+    - "UD04: Sostenibilidad Digital": UD04/index.md
+  - Prácticas y Talleres:
+    - "Prácticas UD00": practicas/UD00/index.md
+    - "Prácticas UD01": practicas/UD01/index.md
+    - "Prácticas UD02": practicas/UD02/index.md
+    - "Prácticas UD03": practicas/UD03/index.md
+    - "Prácticas UD04": practicas/UD04/index.md
