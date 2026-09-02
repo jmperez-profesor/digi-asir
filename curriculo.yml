@@ -2,119 +2,148 @@
 
 modulo:
   codigo: "1665"
-  denominacion: Digitalización aplicada a los sectores productivos (Grado Superior)
-  ciclo: Técnico Superior en Administración de Sistemas Informáticos en Red (ASIR)
+  denominacion: Digitalización aplicada al sistema productivo (GS)
+  ciclo: Técnico Superior en Desarrollo de Aplicaciones Web (DAW)
   centro: "I.E.S. Severo Ochoa de Elche"
   curso_academico: "2026-2027"
-  horas: 35                 # currículo CV (Decreto 95/2026)
-  ects: 4
-  horas_semanales: 1        # dosier CEICE-GVA (nosotros lo damos en 2 sesiones de 2 h)
-  semanas: 30
-  fin_contenidos: finales de abril (semana 24)
-  alcance_docente: [RA1, RA2, RA3, RA4, RA5, RA6] # RA7 es proyecto intermodular (otros docentes)
+  horas: 34
+  ects: 3
+  horas_semanales: 1
+  semanas: 34
+  fin_contenidos: "finales de mayo"
+  alcance_docente: [RA1, RA2, RA3, RA4, RA5, RA6]
 
-# RA/CE prescriptivos: RD 279/2021 (art. 3.2 del Decreto 95/2026 CV).
-# `imparte` marca qué resultados corresponden a este docente y cuáles a otros.
 resultados_aprendizaje:
   - id: RA1
-    ce: 4
-    imparte: este docente
-    enunciado: >-
-      Caracteriza sistemas de Inteligencia Artificial relacionándolos con la mejora de la
-      eficiencia operativa de las organizaciones y empresas.
-  - id: RA2
-    ce: 6
-    imparte: este docente
-    enunciado: >-
-      Utiliza modelos de sistemas de Inteligencia Artificial implementando sistemas de
-      resolución de problemas.
-  - id: RA3
     ce: 7
     imparte: este docente
     enunciado: >-
-      Relaciona el procesamiento de lenguaje natural con sus aplicaciones determinando su
-      potencial e identificando sus limitaciones.
-  - id: RA7
-    ce: 9
-    imparte: otros docentes (proyecto intermodular del curso)
+      Analiza el concepto de digitalización y su repercusión en los sectores productivos teniendo
+      en cuenta la actividad de la empresa e identificando entornos IT y OT característicos.
+  - id: RA2
+    ce: 7
+    imparte: este docente
     enunciado: >-
-      Desarrolla un proyecto integrador que combine técnicas de IA y análisis de datos masivos
-      para resolver un problema real o simulado, gestionando todo el ciclo de vida del proyecto.
+      Caracteriza las tecnologías habilitadoras digitales necesarias para la adecuación/transformación
+      de las empresas a entornos digitales describiendo sus características y aplicaciones.
+  - id: RA3
+    ce: 5
+    imparte: este docente
+    enunciado: >-
+      Identifica sistemas basados en cloud/nube y su influencia en el desarrollo de los sistemas digitales.
+  - id: RA4
+    ce: 6
+    imparte: este docente
+    enunciado: >-
+      Identifica aplicaciones de la IA (inteligencia artificial) en entornos del sector donde está
+      enmarcado el título describiendo las mejoras implícitas en su implementación.
+  - id: RA5
+    ce: 9
+    imparte: este docente
+    enunciado: >-
+      Evalúa la importancia de los datos, así como su protección en una economía digital globalizada,
+      definiendo sistemas de seguridad y ciberseguridad tanto a nivel de equipo/sistema, como globales.
+  - id: RA6
+    ce: 11
+    imparte: este docente
+    enunciado: >-
+      Desarrolla un proyecto de transformación digital de una empresa de un sector relacionado con el título,
+      teniendo en cuenta los cambios que se deben producir en función de los objetivos de la empresa.
 
-# Temporalización de referencia del módulo 5071 completo (fuente: Decreto 95/2026 / dosier GVA).
-# Las unidades que impartimos nosotros son UD01=RA1, UD02=RA2 y UD03=RA3.
 unidades:  
-  - id: UD01
-    titulo: Caracterización de sistemas de IA
+  - id: UD1
+    titulo: Digitalización en los sistemas productivos
     ra: RA1
     imparte: este docente
-    horas: 12
-    semana_inicio: 3
-    semana_fin: 6
-    fecha_inicio: 2026-10-12
-    fecha_fin: 2026-11-06
-  - id: UD02
-    titulo: Modelos de IA y resolución de problemas
+    horas: 5
+    semana_inicio: 1
+    semana_fin: 5
+    fecha_inicio: 2026-10-01
+    fecha_fin: 2026-11-05
+  - id: UD2
+    titulo: Caracterización de tecnologías habilitadoras
     ra: RA2
     imparte: este docente
-    horas: 12
-    semana_inicio: 7
+    horas: 5
+    semana_inicio: 6
     semana_fin: 10
-    fecha_inicio: 2026-11-09
-    fecha_fin: 2026-12-03  
-  - id: UD13
-    titulo: Procesamiento del Lenguaje Natural
+    fecha_inicio: 2026-11-12
+    fecha_fin: 2026-12-10
+  - id: UD3
+    titulo: Computación en la nube
     ra: RA3
     imparte: este docente
-    horas: 12
+    horas: 5
+    semana_inicio: 11
+    semana_fin: 15
+    fecha_inicio: 2026-12-17
+    fecha_fin: 2027-01-28
+  - id: UD4
+    titulo: Inteligencia Artificial
+    ra: RA4
+    imparte: este docente
+    horas: 5
     semana_inicio: 16
-    semana_fin: 19
-    fecha_inicio: 2027-04-07
-    fecha_fin: 2027-05-26  
+    semana_fin: 20
+    fecha_inicio: 2027-02-04
+    fecha_fin: 2027-03-04
+  - id: UD5
+    titulo: Big Data
+    ra: RA5
+    imparte: este docente
+    horas: 3
+    semana_inicio: 21
+    semana_fin: 23
+    fecha_inicio: 2027-03-11
+    fecha_fin: 2027-03-25
+  - id: UD6
+    titulo: Ciberseguridad
+    ra: RA5
+    imparte: este docente
+    horas: 3
+    semana_inicio: 24
+    semana_fin: 26
+    fecha_inicio: 2027-04-01
+    fecha_fin: 2027-04-22
+  - id: UD7
+    titulo: Proyecto de transformación digital
+    ra: RA6
+    imparte: este docente
+    horas: 8
+    semana_inicio: 27
+    semana_fin: 34
+    fecha_inicio: 2027-04-29
+    fecha_fin: 2027-06-17
 
-# Calendario real del curso 2026-2027 (referencia; verificado en DOGV 2026/24495,
-# Resolución SAE 15/07/2026: docencia 01/10/2026 → 18/06/2027 máx.).
-# Festivos/vacaciones del centro; para nuestras sesiones (lun/mié) ver PLAN.md §4.
 calendario:
   inicio_docencia: 2026-10-01
   fin_curso_centro: 2027-05-28
   fin_maximo_legal: 2027-06-18
-  dias_clase: [ viernes] 
-  horas_semanales_curso: 
+  dias_clase: [martes]
   vacaciones:
     navidad: [2026-12-23, 2027-01-06]
     pascua: [2027-03-24, 2027-04-05]
-  festivos:
-    - {fecha: 2026-10-09, dia: viernes, afecta: true} #Dia de la comunidad Valenciana
-    - {fecha: 2026-10-12, dia: lunes, afecta: false}   #Fiesta Nacional de España
-    - {fecha: 2026-12-07, dia: lunes, afecta: false}   #No lectivo en Elche
-    - {fecha: 2026-12-08, dia: martes, afecta: false}   #Día de la Constitución Española
-    - {fecha: 2027-03-19, dia: viernes, afecta: true} #San José
   horario_modulo:
     confirmado: true
     sesiones_por_semana: 1
-    dias: [viernes]
+    dias: [martes]
     duracion_sesion: 1h
     nota: >-
-      El módulo 5071 se imparte en 1 sesión semanal de 1 h (viernes).
+      El módulo 1665 se imparte en 1 sesión semanal de 1 h (martes) en el I.E.S. Severo Ochoa.
 
-# Evaluación (Orden 8/2025, CV): escala 1–10 sin decimales, nota mínima por RA = 5.
-# Pesos de referencia del módulo completo; nuestra evaluación cubre RA1–RA3.
 evaluacion:
   peso_actividades: 40
   peso_prueba_escrita: 60
   nota_minima_por_ra: 5
   escala_calificacion: 1 a 10, sin decimales
   pesos_ra:
-    RA1: 14.55
-    RA2: 14.55
-    RA3: 14.55
-    RA4: 14.55
-    RA5: 14.55
-    RA6: 7.27
-    RA7: 20
-  alcance_evaluacion_docente: [RA1, RA2, RA3]
+    RA1: 14.00
+    RA2: 14.00
+    RA3: 14.00
+    RA4: 14.00
+    RA5: 14.00
+    RA6: 30.00
+  alcance_evaluacion_docente: [RA1, RA2, RA3, RA4, RA5, RA6]
   nota: >-
-    Pesos proporcionales a las horas lectivas de cada RA (Orden 8/2025 art. 5). RA1–RA5 (12 h)
-    pesan 14,55 %; RA6 (6 h) pesa 7,27 %; RA7 se mantiene al 20 %. Alcanzar TODOS los RA del
-    módulo es exigencia normativa (art. 5.1 Orden 8/2025 e Instrucciones 26-27).
+    Pesos ponderados según Anexo I de la Propuesta Didáctica oficial del centro (RA1 a RA5: 14% cada uno; RA6: 30%).
+    Es obligatorio alcanzar una calificación mínima de 5 en cada RA para superar el módulo (Orden 8/2025).
