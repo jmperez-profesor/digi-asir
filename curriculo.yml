@@ -1,0 +1,120 @@
+# curriculo.yml — FUENTE ÚNICA de datos curriculares del módulo 1665 (adaptado a nuestro centro).
+
+modulo:
+  codigo: "1665"
+  denominacion: Digitalización aplicada a los sectores productivos (Grado Superior)
+  ciclo: Técnico Superior en Administración de Sistemas Informáticos en Red (ASIR)
+  centro: "I.E.S. Severo Ochoa de Elche"
+  curso_academico: "2026-2027"
+  horas: 35                 # currículo CV (Decreto 95/2026)
+  ects: 4
+  horas_semanales: 1        # dosier CEICE-GVA (nosotros lo damos en 2 sesiones de 2 h)
+  semanas: 30
+  fin_contenidos: finales de abril (semana 24)
+  alcance_docente: [RA1, RA2, RA3, RA4, RA5, RA6] # RA7 es proyecto intermodular (otros docentes)
+
+# RA/CE prescriptivos: RD 279/2021 (art. 3.2 del Decreto 95/2026 CV).
+# `imparte` marca qué resultados corresponden a este docente y cuáles a otros.
+resultados_aprendizaje:
+  - id: RA1
+    ce: 4
+    imparte: este docente
+    enunciado: >-
+      Caracteriza sistemas de Inteligencia Artificial relacionándolos con la mejora de la
+      eficiencia operativa de las organizaciones y empresas.
+  - id: RA2
+    ce: 6
+    imparte: este docente
+    enunciado: >-
+      Utiliza modelos de sistemas de Inteligencia Artificial implementando sistemas de
+      resolución de problemas.
+  - id: RA3
+    ce: 7
+    imparte: este docente
+    enunciado: >-
+      Relaciona el procesamiento de lenguaje natural con sus aplicaciones determinando su
+      potencial e identificando sus limitaciones.
+  - id: RA7
+    ce: 9
+    imparte: otros docentes (proyecto intermodular del curso)
+    enunciado: >-
+      Desarrolla un proyecto integrador que combine técnicas de IA y análisis de datos masivos
+      para resolver un problema real o simulado, gestionando todo el ciclo de vida del proyecto.
+
+# Temporalización de referencia del módulo 5071 completo (fuente: Decreto 95/2026 / dosier GVA).
+# Las unidades que impartimos nosotros son UD01=RA1, UD02=RA2 y UD03=RA3.
+unidades:  
+  - id: UD01
+    titulo: Caracterización de sistemas de IA
+    ra: RA1
+    imparte: este docente
+    horas: 12
+    semana_inicio: 3
+    semana_fin: 6
+    fecha_inicio: 2026-10-12
+    fecha_fin: 2026-11-06
+  - id: UD02
+    titulo: Modelos de IA y resolución de problemas
+    ra: RA2
+    imparte: este docente
+    horas: 12
+    semana_inicio: 7
+    semana_fin: 10
+    fecha_inicio: 2026-11-09
+    fecha_fin: 2026-12-03  
+  - id: UD13
+    titulo: Procesamiento del Lenguaje Natural
+    ra: RA3
+    imparte: este docente
+    horas: 12
+    semana_inicio: 16
+    semana_fin: 19
+    fecha_inicio: 2027-04-07
+    fecha_fin: 2027-05-26  
+
+# Calendario real del curso 2026-2027 (referencia; verificado en DOGV 2026/24495,
+# Resolución SAE 15/07/2026: docencia 01/10/2026 → 18/06/2027 máx.).
+# Festivos/vacaciones del centro; para nuestras sesiones (lun/mié) ver PLAN.md §4.
+calendario:
+  inicio_docencia: 2026-10-01
+  fin_curso_centro: 2027-05-28
+  fin_maximo_legal: 2027-06-18
+  dias_clase: [ viernes] 
+  horas_semanales_curso: 
+  vacaciones:
+    navidad: [2026-12-23, 2027-01-06]
+    pascua: [2027-03-24, 2027-04-05]
+  festivos:
+    - {fecha: 2026-10-09, dia: viernes, afecta: true} #Dia de la comunidad Valenciana
+    - {fecha: 2026-10-12, dia: lunes, afecta: false}   #Fiesta Nacional de España
+    - {fecha: 2026-12-07, dia: lunes, afecta: false}   #No lectivo en Elche
+    - {fecha: 2026-12-08, dia: martes, afecta: false}   #Día de la Constitución Española
+    - {fecha: 2027-03-19, dia: viernes, afecta: true} #San José
+  horario_modulo:
+    confirmado: true
+    sesiones_por_semana: 1
+    dias: [viernes]
+    duracion_sesion: 1h
+    nota: >-
+      El módulo 5071 se imparte en 1 sesión semanal de 1 h (viernes).
+
+# Evaluación (Orden 8/2025, CV): escala 1–10 sin decimales, nota mínima por RA = 5.
+# Pesos de referencia del módulo completo; nuestra evaluación cubre RA1–RA3.
+evaluacion:
+  peso_actividades: 40
+  peso_prueba_escrita: 60
+  nota_minima_por_ra: 5
+  escala_calificacion: 1 a 10, sin decimales
+  pesos_ra:
+    RA1: 14.55
+    RA2: 14.55
+    RA3: 14.55
+    RA4: 14.55
+    RA5: 14.55
+    RA6: 7.27
+    RA7: 20
+  alcance_evaluacion_docente: [RA1, RA2, RA3]
+  nota: >-
+    Pesos proporcionales a las horas lectivas de cada RA (Orden 8/2025 art. 5). RA1–RA5 (12 h)
+    pesan 14,55 %; RA6 (6 h) pesa 7,27 %; RA7 se mantiene al 20 %. Alcanzar TODOS los RA del
+    módulo es exigencia normativa (art. 5.1 Orden 8/2025 e Instrucciones 26-27).
