@@ -1,22 +1,15 @@
-# Digitalización Aplicada a los Sectores Productivos (2º ASIR)
+# Digitalización Aplicada al Sistema Productivo (DAW)
 
-¡Bienvenido al portal web del módulo profesional **1665 — Digitalización aplicada a los sectores productivos**, perteneciente al ciclo formativo de Grado Superior en **Administración de Sistemas Informáticos en Red (ASIR)** en la Comunitat Valenciana.
-
-## 🎯 Objetivo del Módulo
-Este módulo de 30 horas formativas dota al futuro administrador de sistemas de las competencias necesarias para liderar la transformación digital, la ciberseguridad corporativa, la automatización mediante inteligencia artificial y la sostenibilidad energética en los entornos productivos modernos.
+Portal web oficial del módulo **1665 — Digitalización aplicada al sistema productivo (GS)** del ciclo formativo de Grado Superior en **Desarrollo de Aplicaciones Web (DAW)** en el **I.E.S. Severo Ochoa de Elche** (Curso 2026-2027).
 
 ---
 
-## 📚 Estructura del Curso
-El contenido está estructurado en unidades didácticas orientadas a la práctica profesional en administración de redes y sistemas:
+## 📚 Estructura de Unidades Didácticas (UD1 - UD7)
 
-- **[UD00: Presentación y Entorno](UD00/index.md)**: Configuración del entorno de trabajo, control de versiones (Git/GitHub) y herramientas colaborativas.
-- **[UD01: Transformación Digital](UD01/index.md)**: Tecnologías habilitadoras digitales y su impacto en la administración de infraestructuras TIC.
-- **[UD02: Ciberseguridad Básica](UD02/index.md)**: Políticas de seguridad, privacidad, gestión de identidades y cumplimiento normativo.
-- **[UD03: Automatización e IA](UD03/index.md)**: Automatización de tareas de sistemas, scripting avanzado, uso de IA generativa y análisis de datos.
-- **[UD04: Sostenibilidad Digital](UD04/index.md)**: Eficiencia energética en centros de datos, green computing y tecnologías verdes.
-
----
-
-## ⚖️ Licencia y Normativa
-Este proyecto se distribuye bajo la licencia **CC BY-NC-SA 4.0**. Consulta el apartado de **[Normativa y Currículo](normativa/index.md)** para conocer el marco legal de referencia (RD 659/2023 y Decreto 114/2025).
+- **[UD1: Digitalización en Sistemas Productivos](UD1/index.md)** (5h · RA1): Concepto de digitalización, entornos IT y OT y convergencia industrial.
+- **[UD2: Tecnologías Habilitadoras (THD)](UD2/index.md)** (5h · RA2): Industria 4.0, IoT, robótica, fabricación aditiva y sostenibilidad.
+- **[UD3: Computación en la Nube](UD3/index.md)** (5h · RA3): Niveles de cloud, edge, fog y mist computing.
+- **[UD4: Inteligencia Artificial](UD4/index.md)** (5h · RA4): Automatización, optimización y aplicación de la IA en el sector DAW.
+- **[UD5: Big Data](UD5/index.md)** (3h · RA5): Ciclo de vida del dato, las 6 V's y ciencia de datos.
+- **[UD6: Ciberseguridad](UD6/index.md)** (3h · RA5): Amenazas, pilares CIA, contraseñas, cifrado y normativa RGPD.
+- **[UD7: Proyecto de Transformación Digital](UD7/index.md)** (8h · RA6): Lienzo de transformación, objetivos estratégicos, integración de datos y roadmap.

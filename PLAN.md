@@ -1,34 +1,35 @@
-# Plan Maestro: Digitalización Aplicada a los Sectores Productivos (2º ASIR)
+# Plan Maestro: Digitalización Aplicada al Sistema Productivo (GS) - DAW
 
 ## 1. Identificación del Proyecto
-- **Módulo profesional**: 1665 — Digitalización aplicada a los sectores productivos (Grado Superior).
-- **Ciclo formativo**: Técnico Superior en Administración de Sistemas Informáticos en Red (ASIR).
-- **Curso**: 2º ASIR (secuenciación adaptada para el centro en curso 2026-2027).
-- **Duración**: 30 horas · 3 créditos ECTS.
+- **Módulo profesional**: 1665 — Digitalización aplicada al sistema productivo (Grado Superior).
+- **Ciclo formativo**: Técnico Superior en Desarrollo de Aplicaciones Web (DAW).
+- **Centro**: I.E.S. Severo Ochoa de Elche.
+- **Curso académico**: 2026-2027 (2º curso).
+- **Duración**: 34 horas · 1 hora semanal (3 ECTS).
 - **Comunidad autónoma**: Comunitat Valenciana.
-- **Carpeta raíz**: `/home/jmperez/Documentos/digi-asir/`.
 - **Idioma**: español (es-ES).
 - **Licencia**: CC BY-NC-SA 4.0.
-- **Despliegue**: GitHub Pages con MkDocs (Material for MkDocs).
+- **Despliegue**: GitHub Pages con Material for MkDocs.
 
 ## 2. Marco Normativo de Referencia
 - **Ley Orgánica 3/2022**, de 31 de marzo, de ordenación e integración de la Formación Profesional.
-- **Real Decreto 659/2023**, de 18 de julio, por el que se desarrolla la ordenación del Sistema de Formación Profesional.
-- **Real Decreto 1629/2009**, de 30 de octubre, por el que se establece el título de Técnico Superior en ASIR y se fijan sus enseñanzas mínimas.
-- **Decreto 114/2025**, de 29 de julio, del Consell, por el que se establecen los currículos de los ciclos formativos de grado medio y de grado superior de FP en la Comunitat Valenciana.
-- **Orden 8/2025**, de 29 de abril, de evaluación del alumnado de Formación Profesional en la Comunitat Valenciana, modificada por la Orden 5/2026.
+- **Real Decreto 659/2023**, de 18 de julio, de ordenación del Sistema de Formación Profesional.
+- **Decreto 114/2025**, de 29 de julio, del Consell (currículos de FP en la Comunitat Valenciana).
+- **Orden 8/2025**, de 22 de abril, de evaluación en ciclos formativos (Comunitat Valenciana).
 
-## 3. Resultados de Aprendizaje (RA) del Módulo 1665 (Curricular Básico - RD 659/2023)
-*Pendiente de formalizar y volcar tras la extracción detallada del Anexo correspondiente del RD 659/2023.*
+## 3. Resultados de Aprendizaje (RA) Oficiales (RD 659/2023 / Propuesta IES Severo Ochoa)
+- **RA1**: Analiza el concepto de digitalización y su repercusión en los sectores productivos teniendo en cuenta la actividad de la empresa e identificando entornos IT y OT característicos. (Ponderación: 14%)
+- **RA2**: Caracteriza las tecnologías habilitadoras digitales necesarias para la adecuación/transformación de las empresas a entornos digitales describiendo sus características y aplicaciones. (Ponderación: 14%)
+- **RA3**: Identifica sistemas basados en cloud/nube y su influencia en el desarrollo de los sistemas digitales. (Ponderación: 14%)
+- **RA4**: Identifica aplicaciones de la IA (inteligencia artificial) en entornos del sector donde está enmarcado el título describiendo las mejoras implícitas en su implementación. (Ponderación: 14%)
+- **RA5**: Evalúa la importancia de los datos, así como su protección en una economía digital globalizada, definiendo sistemas de seguridad y ciberseguridad tanto a nivel de equipo/sistema, como globales. (Ponderación: 14%)
+- **RA6**: Desarrolla un proyecto de transformación digital de una empresa de un sector relacionado con el título, teniendo en cuenta los cambios que se deben producir en función de los objetivos de la empresa. (Ponderación: 30%)
 
-## 4. Estructura de Evaluación y Calificación
-- **Ponderación por defecto**: 40% Actividades, talleres y prácticas + 60% Pruebas escritas por Resultado de Aprendizaje.
-- **Condición de superación**: Cada RA debe alcanzar una calificación mínima de 5 para superar el módulo.
-- **Convocatorias**: Ordinaria y extraordinaria según normativa autonómica vigente.
-
-## 5. Temporalización y Unidades Didácticas (30 horas totales)
-- **UD00**: Presentación del módulo, entorno colaborativo y herramientas digitales.
-- **UD01**: Transformación digital en los sectores productivos y administración de sistemas.
-- **UD02**: Ciberseguridad aplicada, privacidad y cumplimiento normativo.
-- **UD03**: Automatización de procesos, IA aplicada y gestión de datos.
-- **UD04**: Sostenibilidad digital, eficiencia energética y tecnologías verdes.
+## 4. Estructura de Unidades Didácticas (UD1 - UD7)
+- **UD1**: Digitalización en los sistemas productivos (5 horas · RA1)
+- **UD2**: Caracterización de tecnologías habilitadoras (5 horas · RA2)
+- **UD3**: Computación en la nube (5 horas · RA3)
+- **UD4**: Inteligencia Artificial (5 horas · RA4)
+- **UD5**: Big Data (3 horas · RA5)
+- **UD6**: Ciberseguridad (3 horas · RA5)
+- **UD7**: Proyecto de transformación digital (8 horas · RA6)

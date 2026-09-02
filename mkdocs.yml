@@ -1,12 +1,12 @@
-site_name: "Digitalización Aplicada a los Sectores Productivos (2º ASIR)"
+site_name: "Digitalización Aplicada al Sistema Productivo (DAW)"
 site_url: "https://jmperez-profesor.github.io/digi-asir/"
-site_author: "Profesorado ASIR"
-site_description: "Apuntes y recursos didácticos para el módulo 1665 — Digitalización aplicada a los sectores productivos (2º ASIR)."
+site_author: "Profesorado DAW - IES Severo Ochoa"
+site_description: "Apuntes y recursos didácticos para el módulo 1665 — Digitalización aplicada al sistema productivo (2º DAW)."
 
 repo_url: "https://github.com/jmperez-profesor/digi-asir"
 repo_name: "jmperez-profesor/digi-asir"
 
-copyright: "Copyright &copy; 2026 Profesorado ASIR — Licencia CC BY-NC-SA 4.0"
+copyright: "Copyright &copy; 2026 I.E.S. Severo Ochoa — Licencia CC BY-NC-SA 4.0"
 
 theme:
   name: material
@@ -83,14 +83,18 @@ nav:
   - Inicio: index.md
   - Normativa y Currículo: normativa/index.md
   - Unidades Didácticas:
-    - "UD00: Presentación y Entorno": UD00/index.md
-    - "UD01: Transformación Digital": UD01/index.md
-    - "UD02: Ciberseguridad Básica": UD02/index.md
-    - "UD03: Automatización e IA": UD03/index.md
-    - "UD04: Sostenibilidad Digital": UD04/index.md
+    - "UD1: Digitalización en Sistemas Productivos": UD1/index.md
+    - "UD2: Tecnologías Habilitadoras (THD)": UD2/index.md
+    - "UD3: Computación en la Nube": UD3/index.md
+    - "UD4: Inteligencia Artificial": UD4/index.md
+    - "UD5: Big Data": UD5/index.md
+    - "UD6: Ciberseguridad": UD6/index.md
+    - "UD7: Proyecto de Transformación Digital": UD7/index.md
   - Prácticas y Talleres:
-    - "Prácticas UD00": practicas/UD00/index.md
-    - "Prácticas UD01": practicas/UD01/index.md
-    - "Prácticas UD02": practicas/UD02/index.md
-    - "Prácticas UD03": practicas/UD03/index.md
-    - "Prácticas UD04": practicas/UD04/index.md
+    - "Prácticas UD1": practicas/UD1/index.md
+    - "Prácticas UD2": practicas/UD2/index.md
+    - "Prácticas UD3": practicas/UD3/index.md
+    - "Prácticas UD4": practicas/UD4/index.md
+    - "Prácticas UD5": practicas/UD5/index.md
+    - "Prácticas UD6": practicas/UD6/index.md
+    - "Prácticas UD7": practicas/UD7/index.md
