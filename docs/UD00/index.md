@@ -8,4 +8,4 @@ Presentación del módulo 1665, guía docente, criterios de calificación (80 % 
 - Herramientas: control de versiones, cuadernos Jupyter (`.ipynb`) con apertura en Colab y flujo de entrega en Moodle.
 - Normas de asistencia (≥85 %) y recuperación por RA.
 
-> 1 h transversal (semana 1). El resto de horas (34 h) se reparten en UD1-UD7 según F01.PC02.
+> 1 h transversal (semana 1) integrada en las 34 h totales; UD7 ajustada a 7 h (F01.PC02 prevé 8 h).

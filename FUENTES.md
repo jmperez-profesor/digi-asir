@@ -34,7 +34,7 @@ Licencia de contenidos y documentación: **CC BY-NC-SA 4.0**.
 - **URL oficial**: [DOGV 2025/29742](https://dogv.gva.es/)
 - **Fecha de publicación**: 04/08/2025
 - **Uso en el proyecto**: Currículo autonómico aplicable para DAW y el módulo 1665 (34 h lectivas DAW).
-- **Fichero local**: `fuentes/Decreto_114_2025_GVA.pdf` (pendiente de descarga/verificación)
+- **Fichero local**: `fuentes/Decreto_114_2025_GVA.pdf` (pendiente de descarga/verificación) — cuadro horario 34 h DAW para 1665.
 
 ### F04 — Orden de Evaluación (Orden 8/2025 y Orden 5/2026)
 - **Referencia oficial**: Orden 8/2025, de 29 de abril (DOGV 2025/13083), de evaluación del alumnado LFP en la Comunitat Valenciana, y su modificación por Orden 5/2026.

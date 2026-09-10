@@ -6,11 +6,11 @@ modulo:
   ciclo: Administración de Sistemas Informáticos en Red (ASIR)
   centro: "I.E.S. Severo Ochoa de Elche"
   curso_academico: "2026-2027"
-  horas: 35
+  horas: 34
   ects: 3
   horas_semanales: 1
-  semanas: 35
-  fin_contenidos: "finales de mayo (semana 34-35, UD7)"
+  semanas: 34
+  fin_contenidos: "finales de mayo (semana 34, UD7)"
   alcance_docente: [RA1, RA2, RA3, RA4, RA5, RA6]
 
 resultados_aprendizaje:
@@ -211,11 +211,12 @@ unidades:
       -RA6j: Se han documentado los cambios realizados en función de la estrategia
       -RA6k: Se han tenido en cuenta la idoneidad de los recursos humanos
     imparte: este docente
-    horas: 8
+    horas: 7
     semana_inicio: 
     semana_fin: 
     fecha_inicio: 
     fecha_fin: 
+    nota: "Ajuste de 8 h oficiales F01.PC02 a 7 h para cuadrar 34 h totales con UD00 (1 h)"
 
 calendario:
   inicio_docencia: 2026-09-22

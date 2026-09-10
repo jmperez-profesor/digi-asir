@@ -5,7 +5,7 @@
 - **Ciclo formativo**: Técnico Superior en Desarrollo de Aplicaciones Web (DAW).
 - **Centro**: I.E.S. Severo Ochoa de Elche.
 - **Curso académico**: 2026-2027 (2º curso).
-- **Duración**: 35 horas · 1 hora semanal (3 ECTS) — 34 h lectivas DAW (Decreto 114/2025) + 1 h UD00 presentación/entorno (ajuste organizativo del centro).
+- **Duración**: 34 horas · 1 hora semanal (3 ECTS) — según cuadro horario oficial DAW (Decreto 114/2025 / F01.PC02 p.4).
 - **Comunidad autónoma**: Comunitat Valenciana.
 - **Idioma**: español (es-ES).
 - **Licencia**: CC BY-NC-SA 4.0.
@@ -39,14 +39,14 @@
 | Orden 8/2025 | DOGV 2025/13083 | 22/04/2025 | Evaluación LFP CV (85 % asistencia, RA≥5) | `fuentes/Orden_Evaluacion_GVA.pdf` |
 | Resol. SAE 17/07/2025 | DOGV 2025 | 17/07/2025 | Instrucciones organización centros FP 25-26 | `fuentes/Resolucion_SAE_2025.pdf` |
 
-## 4. Estructura de Unidades Didácticas (UD00 - UD7) — 35 h totales
-- **UD00**: Presentación del módulo y entorno colaborativo (herramientas digitales, AULES/Teams, Git) (1 hora · transversal)
+## 4. Estructura de Unidades Didácticas (UD00 - UD7) — 34 h totales
+- **UD00**: Presentación del módulo y entorno colaborativo (herramientas digitales, AULES/Teams, Git) (1 hora · transversal, integrada dentro de las 34 h)
 - **UD1**: Digitalización en los sistemas productivos (5 horas · RA1)
 - **UD2**: Caracterización de tecnologías habilitadoras (5 horas · RA2)
 - **UD3**: Computación en la nube (5 horas · RA3)
 - **UD4**: Inteligencia Artificial (5 horas · RA4)
 - **UD5**: Big Data (3 horas · RA5)
 - **UD6**: Ciberseguridad (3 horas · RA5)
-- **UD7**: Proyecto de transformación digital — memoria integradora + proyecto intermodular (8 horas · RA6, recoge contenidos UD1-UD6)
+- **UD7**: Proyecto de transformación digital — memoria integradora + proyecto intermodular (7 horas · RA6, recoge contenidos UD1-UD6) — ajuste de 8 h oficiales a 7 h para cuadrar 34 h con UD00
 
 > **Fuentes de contenido**: además de BOE/DOGV, se utilizan los PDFs aportados en `fuentes/` (uno por unidad) como fuente oficial complementaria de cada UD.

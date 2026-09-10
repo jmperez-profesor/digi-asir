@@ -6,7 +6,7 @@
 - **Ciclo formativo**: Técnico Superior en Desarrollo de Aplicaciones Web (DAW) — familia Informática y Comunicaciones (el promptrama ASIR es equivalente a efectos del módulo transversal 1665)
 - **Nivel / Curso**: Grado Superior / 2º Curso (Curso 2026-2027)
 - **Centro**: I.E.S. Severo Ochoa de Elche
-- **Duración**: 35 horas (1 h/semana, 3 ECTS) — 34 h lectivas DAW (Decreto 114/2025; cuadro horario F01.PC02 p.4) + 1 h UD00 presentación/entorno (ajuste organizativo)
+- **Duración**: 34 horas (1 h/semana, 3 ECTS) — cuadro horario oficial DAW (Decreto 114/2025; F01.PC02 p.4)
 - **Modalidad**: Presencial
 - **Marco normativo**: Ley Orgánica 3/2022, Real Decreto 659/2023, RD 405/2023, Decreto 114/2025 (Comunitat Valenciana) y Orden 8/2025 de evaluación.
 
@@ -26,8 +26,8 @@ Peso por RA según Anexo I F01.PC02 (p.39-41). Cada RA debe alcanzar **≥5**.
 
 ---
 
-## 3. Estructura de Unidades Didácticas y Temporalización (35 horas)
-Incluye UD00 organizativa del prompt (§3.3) y las 7 UD oficiales del centro (F01.PC02 §4):
+## 3. Estructura de Unidades Didácticas y Temporalización (34 horas)
+Incluye UD00 organizativa del prompt (§3.3) y las 7 UD oficiales del centro (F01.PC02 §4) — UD00 1 h integrada, UD7 ajustada de 8 h a 7 h para cuadrar 34 h:
 
 | Unidad Didáctica | Denominación | Sesiones / Duración | RA | Fechas orientativas |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ Incluye UD00 organizativa del prompt (§3.3) y las 7 UD oficiales del centro (F0
 | **UD4** | Inteligencia Artificial | 5 h | RA4 | Semanas 17-21 |
 | **UD5** | Big Data | 3 h | RA5 (a–h) | Semanas 22-24 |
 | **UD6** | Ciberseguridad | 3 h | RA5 (i) | Semanas 25-27 |
-| **UD7** | Proyecto de transformación digital — memoria integradora (recoge UD1-UD6) + proyecto intermodular | 8 h | RA6 | Semanas 28-35 |
-| **TOTAL** | | **35 horas** | | Fechas orientativas; ajuste al calendario real del centro |
+| **UD7** | Proyecto de transformación digital — memoria integradora (recoge UD1-UD6) + proyecto intermodular | 7 h | RA6 | Semanas 28-34 |
+| **TOTAL** | | **34 horas** | | Fechas orientativas; ajuste al calendario real del centro |
 
 > **UD7**: genera una **memoria con el informe de la transformación digital** de una empresa real o ficticia (prompt §3.9) que integra contenidos de todas las unidades anteriores y contribuye al **proyecto intermodular** del curso (F01.PC02 §5; RA6.d,f,i,j).
 
