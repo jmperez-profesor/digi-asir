@@ -3,120 +3,222 @@
 modulo:
   codigo: "1665"
   denominacion: Digitalización aplicada al sistema productivo (GS)
-  ciclo: Técnico Superior en Desarrollo de Aplicaciones Web (DAW)
+  ciclo: Administración de Sistemas Informáticos en Red (ASIR)
   centro: "I.E.S. Severo Ochoa de Elche"
   curso_academico: "2026-2027"
-  horas: 34
+  horas: 35
   ects: 3
   horas_semanales: 1
-  semanas: 34
-  fin_contenidos: "finales de mayo"
+  semanas: 35
+  fin_contenidos: "finales de mayo (semana 34-35, UD7)"
   alcance_docente: [RA1, RA2, RA3, RA4, RA5, RA6]
 
 resultados_aprendizaje:
   - id: RA1
-    ce: 7
+    ce: 
+      -RA1a: Se ha descrito en qué consiste el concepto de digitalización
+      -RA1b: Se ha relacionado la implantación de la tecnología digital con la organización de las empresas
+      -RA1c: Se han establecido las diferencias y similitudes entre los entornos IT y OT
+      -RA1d: Se han identificado los departamentos típicos de las empresas que pueden constituir entornos IT
+      -RA1e: Se han seleccionado las tecnologías típicas de la digitalización en planta y en negocio
+      -RA1f: Se ha analizado la importancia de la conexión entre entornos IT y OT
+      -RA1g: Se han analizado las ventajas de digitalizar una empresa industrial de extremo a extremo
     imparte: este docente
     enunciado: >-
       Analiza el concepto de digitalización y su repercusión en los sectores productivos teniendo
       en cuenta la actividad de la empresa e identificando entornos IT y OT característicos.
   - id: RA2
-    ce: 7
+    ce: 
+      -RA2a: Se han identificado las principales tecnologías habilitadoras digitales
+      -RA2b: Se han relacionado las THD con el desarrollo de productos y servicios
+      -RA2c: Se ha relacionado la importancia de las THD con la economía sostenible y eficiente
+      -RA2d: Se han identificado nuevos mercados generados por las THD
+      -RA2e: Se ha analizado la implicación de THD tanto en la parte de negocio como en la parte de planta
+      -RA2f: Se han identificado las mejoras producidas debido a la implantación de las tecnologías habilitadoras en relación con los entornos IT y OT
+      -RA2g: Se ha elaborado un informe que relacione, las tecnologías con sus características y áreas de aplicación
     imparte: este docente
     enunciado: >-
       Caracteriza las tecnologías habilitadoras digitales necesarias para la adecuación/transformación
       de las empresas a entornos digitales describiendo sus características y aplicaciones.
   - id: RA3
-    ce: 5
+    ce: 
+      -RA3a: Se han identificado los diferentes niveles de la cloud/nube
+      -RA3b: Se han identificado las principales funciones de la cloud/nube (procesamiento de datos, intercambio de información, ejecución de aplicaciones, entre otros)
+      -RA3c: Se ha descrito el concepto de edge computing y su relación con la cloud/nube
+      -RA3d: Se han definido los conceptos de fog y mist y sus zonas de aplicación en el conjunto
+      -RA3e: Se han identificado las ventajas que proporciona la utilización de la cloud/nube en los sistemas conectados
     imparte: este docente
     enunciado: >-
       Identifica sistemas basados en cloud/nube y su influencia en el desarrollo de los sistemas digitales.
   - id: RA4
-    ce: 6
+    ce: 
+      -RA4a: Se ha identificado la importancia de la IA en la automatización de procesos y su optimización
+      -RA4b: Se ha relacionado la IA con la recogida masiva de datos (Big Data) y su tratamiento (análisis) con la rentabilidad de las empresas
+      -RA4c: Se ha valorado la importancia presente y futura de la IA
+      -RA4d: Se han identificado los sectores con implantación más relevante de IA
+      -RA4e: Se han identificado los lenguajes de programación en IA
+      -RA4f: Se ha descrito como influye la IA en el sector del título
     imparte: este docente
     enunciado: >-
       Identifica aplicaciones de la IA (inteligencia artificial) en entornos del sector donde está
       enmarcado el título describiendo las mejoras implícitas en su implementación.
   - id: RA5
-    ce: 9
+    ce: 
+      -RA5a: Se ha establecido la diferencia entre dato e información
+      -RA5b: Se ha descrito el ciclo de vida del dato
+      -RA5c: Se ha identificado la relación entre Big Data, análisis de datos, machine/ deep learning e inteligencia
+      -RA5d: Se han descrito las características que definen Big Data
+      -RA5e: Se han descrito las etapas típicas de la ciencia de datos y su relación en el proceso
+      -RA5f: Se han descrito los procedimientos de almacenaje de datos en la cloud/nube
+      -RA5g: Se ha descrito la importancia del cloud computing
+      -RA5h: Se han identificado los principales objetivos de la ciencia de datos en las diferentes empresas
+      -RA5i: Se ha valorado la importancia de la seguridad y su regulación en relación con los datos
     imparte: este docente
     enunciado: >-
       Evalúa la importancia de los datos, así como su protección en una economía digital globalizada,
       definiendo sistemas de seguridad y ciberseguridad tanto a nivel de equipo/sistema, como globales.
   - id: RA6
-    ce: 11
+    ce: 
+      -RA6a: Se han identificado los objetivos estratégicos de la empresa
+      -RA6b: Se han identificado y alineado las áreas de producción/negocio y de comunicaciones
+      -RA6c: Se han identificado las áreas susceptibles de ser digitalizadas
+      -RA6d: Se ha analizado el encaje de AD (áreas digitalizadas) entre sí y con las que no lo están
+      -RA6e: Se han tenido en cuenta las necesidades presentes y futuras de la empresa
+      -RA6f: Se han relacionado cada una de las áreas con la implantación de las tecnologías
+      -RA6g: Se han analizado las posibles brechas de seguridad en cada una de las áreas
+      -RA6h: Se ha definido el tratamiento de los datos y su análisis
+      -RA6i: Se ha tenido en cuenta la integración entre datos, aplicaciones, plataformas que los soportan, entre otros
+      -RA6j: Se han documentado los cambios realizados en función de la estrategia
+      -RA6k: Se han tenido en cuenta la idoneidad de los recursos humanos
     imparte: este docente
     enunciado: >-
       Desarrolla un proyecto de transformación digital de una empresa de un sector relacionado con el título,
       teniendo en cuenta los cambios que se deben producir en función de los objetivos de la empresa.
 
-unidades:  
+unidades:
+  - id: UD00
+    titulo: Presentación del módulo y entorno colaborativo
+    ra: transversal
+    ce: []
+    imparte: este docente
+    horas: 1
+    semana_inicio: 1
+    semana_fin: 1
+    fecha_inicio: 2026-09-22
+    fecha_fin: 2026-09-22
+    nota: "Herramientas digitales, AULES/Teams, entorno colaborativo Git (prompt §3.3)"
   - id: UD1
     titulo: Digitalización en los sistemas productivos
     ra: RA1
+    ce: 
+      -RA1a: Se ha descrito en qué consiste el concepto de digitalización
+      -RA1b: Se ha relacionado la implantación de la tecnología digital con la organización de las empresas
+      -RA1c: Se han establecido las diferencias y similitudes entre los entornos IT y OT
+      -RA1d: Se han identificado los departamentos típicos de las empresas que pueden constituir entornos IT
+      -RA1e: Se han seleccionado las tecnologías típicas de la digitalización en planta y en negocio
+      -RA1f: Se ha analizado la importancia de la conexión entre entornos IT y OT
+      -RA1g: Se han analizado las ventajas de digitalizar una empresa industrial de extremo a extremo
     imparte: este docente
     horas: 5
     semana_inicio: 1
     semana_fin: 5
-    fecha_inicio: 2026-10-01
-    fecha_fin: 2026-11-05
+    fecha_inicio: 2026-09-22
+    fecha_fin: 
   - id: UD2
     titulo: Caracterización de tecnologías habilitadoras
     ra: RA2
+    ce: 
+      -RA2a: Se han identificado las principales tecnologías habilitadoras digitales
+      -RA2b: Se han relacionado las THD con el desarrollo de productos y servicios
+      -RA2c: Se ha relacionado la importancia de las THD con la economía sostenible y eficiente
+      -RA2d: Se han identificado nuevos mercados generados por las THD
+      -RA2e: Se ha analizado la implicación de THD tanto en la parte de negocio como en la parte de planta
+      -RA2f: Se han identificado las mejoras producidas debido a la implantación de las tecnologías habilitadoras en relación con los entornos IT y OT
+      -RA2g: Se ha elaborado un informe que relacione, las tecnologías con sus características y áreas de aplicación
     imparte: este docente
     horas: 5
     semana_inicio: 6
     semana_fin: 10
-    fecha_inicio: 2026-11-12
-    fecha_fin: 2026-12-10
+    fecha_inicio: 
+    fecha_fin: 
   - id: UD3
     titulo: Computación en la nube
     ra: RA3
     imparte: este docente
     horas: 5
-    semana_inicio: 11
-    semana_fin: 15
-    fecha_inicio: 2026-12-17
-    fecha_fin: 2027-01-28
+    semana_inicio: 
+    semana_fin: 
+    fecha_inicio: 
+    fecha_fin: 
   - id: UD4
     titulo: Inteligencia Artificial
     ra: RA4
+    ce: 
+      -RA4a: Se ha identificado la importancia de la IA en la automatización de procesos y su optimización
+      -RA4b: Se ha relacionado la IA con la recogida masiva de datos (Big Data) y su tratamiento (análisis) con la rentabilidad de las empresas
+      -RA4c: Se ha valorado la importancia presente y futura de la IA
+      -RA4d: Se han identificado los sectores con implantación más relevante de IA
+      -RA4e: Se han identificado los lenguajes de programación en IA
+      -RA4f: Se ha descrito como influye la IA en el sector del título
     imparte: este docente
     horas: 5
-    semana_inicio: 16
-    semana_fin: 20
-    fecha_inicio: 2027-02-04
-    fecha_fin: 2027-03-04
+    semana_inicio: 
+    semana_fin: 
+    fecha_inicio: 
+    fecha_fin: 
   - id: UD5
     titulo: Big Data
     ra: RA5
+    ce: 
+      -RA5a: Se ha establecido la diferencia entre dato e información
+      -RA5b: Se ha descrito el ciclo de vida del dato
+      -RA5c: Se ha identificado la relación entre Big Data, análisis de datos, machine/ deep learning e inteligencia
+      -RA5d: Se han descrito las características que definen Big Data
+      -RA5e: Se han descrito las etapas típicas de la ciencia de datos y su relación en el proceso
+      -RA5f: Se han descrito los procedimientos de almacenaje de datos en la cloud/nube
+      -RA5g: Se ha descrito la importancia del cloud computing
+      -RA5h: Se han identificado los principales objetivos de la ciencia de datos en las diferentes empresas
     imparte: este docente
     horas: 3
-    semana_inicio: 21
-    semana_fin: 23
-    fecha_inicio: 2027-03-11
-    fecha_fin: 2027-03-25
+    semana_inicio: 
+    semana_fin: 
+    fecha_inicio: 
+    fecha_fin: 
   - id: UD6
     titulo: Ciberseguridad
     ra: RA5
+    ce:
+      -RA5i: Se ha valorado la importancia de la seguridad y su regulación en relación con los datos
     imparte: este docente
     horas: 3
-    semana_inicio: 24
-    semana_fin: 26
-    fecha_inicio: 2027-04-01
-    fecha_fin: 2027-04-22
+    semana_inicio: 
+    semana_fin: 
+    fecha_inicio: 
+    fecha_fin: 
   - id: UD7
     titulo: Proyecto de transformación digital
     ra: RA6
+    ce: 
+      -RA6a: Se han identificado los objetivos estratégicos de la empresa
+      -RA6b: Se han identificado y alineado las áreas de producción/negocio y de comunicaciones
+      -RA6c: Se han identificado las áreas susceptibles de ser digitalizadas
+      -RA6d: Se ha analizado el encaje de AD (áreas digitalizadas) entre sí y con las que no lo están
+      -RA6e: Se han tenido en cuenta las necesidades presentes y futuras de la empresa
+      -RA6f: Se han relacionado cada una de las áreas con la implantación de las tecnologías
+      -RA6g: Se han analizado las posibles brechas de seguridad en cada una de las áreas
+      -RA6h: Se ha definido el tratamiento de los datos y su análisis
+      -RA6i: Se ha tenido en cuenta la integración entre datos, aplicaciones, plataformas que los soportan, entre otros
+      -RA6j: Se han documentado los cambios realizados en función de la estrategia
+      -RA6k: Se han tenido en cuenta la idoneidad de los recursos humanos
     imparte: este docente
     horas: 8
-    semana_inicio: 27
-    semana_fin: 34
-    fecha_inicio: 2027-04-29
-    fecha_fin: 2027-06-17
+    semana_inicio: 
+    semana_fin: 
+    fecha_inicio: 
+    fecha_fin: 
 
 calendario:
-  inicio_docencia: 2026-10-01
+  inicio_docencia: 2026-09-22
   fin_curso_centro: 2027-05-28
   fin_maximo_legal: 2027-06-18
   dias_clase: [martes]
@@ -132,8 +234,9 @@ calendario:
       El módulo 1665 se imparte en 1 sesión semanal de 1 h (martes) en el I.E.S. Severo Ochoa.
 
 evaluacion:
-  peso_actividades: 40
-  peso_prueba_escrita: 60
+  peso_actividades: 80
+  peso_prueba_escrita: 20
+  instrumento_prueba: cuestionario por RA
   nota_minima_por_ra: 5
   escala_calificacion: 1 a 10, sin decimales
   pesos_ra:
@@ -145,5 +248,7 @@ evaluacion:
     RA6: 30.00
   alcance_evaluacion_docente: [RA1, RA2, RA3, RA4, RA5, RA6]
   nota: >-
-    Pesos ponderados según Anexo I de la Propuesta Didáctica oficial del centro (RA1 a RA5: 14% cada uno; RA6: 30%).
-    Es obligatorio alcanzar una calificación mínima de 5 en cada RA para superar el módulo (Orden 8/2025).
+    Pesos RA según Anexo I F01.PC02 (RA1-RA5 14% cada uno; RA6 30%). Ponderación interna por RA
+    según prompt actualizado: 80% actividades/prácticas + 20% cuestionario; cada RA debe alcanzar ≥5
+    (Orden 8/2025). UD7 genera memoria integradora que recoge contenidos UD1-UD6 y está vinculada al
+    proyecto intermodular (F01.PC02 §5). Fechas orientativas; pueden ajustarse al calendario real del centro.
