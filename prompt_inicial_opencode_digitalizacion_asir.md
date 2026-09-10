@@ -4,8 +4,8 @@ Actúa como un **agente de desarrollo educativo experto en Formación Profesiona
 
 - **Módulo profesional**: 1665 — Digitalización aplicada a los sectores productivos (Grado Superior).
 - **Ciclo formativo**: Técnico Superior en Administración de Sistemas Informáticos en Red (ASIR).
-- **Curso**: 2º ASIR (confírmame si en tu centro la secuenciación oficial lo ubica en 1º o 2º curso, porque en la secuenciación estatal de referencia este módulo aparece encuadrado en 1º; quiero que la programación final refleje la secuenciación real de mi centro y horario).
-- **Duración**: 30 horas · 3 créditos ECTS (currículo básico estatal).
+- **Curso**: 2º ASIR .
+- **Duración**: 34 horas · 3 créditos ECTS (currículo básico estatal).
 - **Comunidad autónoma**: Comunitat Valenciana.
 - **Carpeta raíz del proyecto**: `/home/jmperez/Documentos/digi-asir/`.
 - **Idioma**: español (es-ES).
@@ -56,13 +56,14 @@ digi_asir/
 ### 3. Decisiones de diseño que debes respetar desde el inicio
 
 1. **Evaluación por resultados de aprendizaje (RA)**: usa los RA y criterios de evaluación oficiales del currículo básico del módulo 1665 (RD 659/2023). Indícame cuántos RA tiene exactamente tras consultar la fuente y créalos como tabla de referencia en `PLAN.md`.
-2. **Ponderación de la nota**: propónmela por defecto como 40% actividades/prácticas + 60% prueba escrita por RA, y **cada RA debe alcanzar ≥5** para superar el módulo — pero pregúntame si mi centro tiene un criterio distinto fijado en su programación (como ocurrió en el proyecto de referencia con la Orden 8/2025 vs. el criterio propio del centro) antes de blindarlo por escrito.
+2. **Ponderación de la nota**: propónmela por defecto como 80% actividades/prácticas + 20% cuestionario por RA, y **cada RA debe alcanzar ≥5** para superar el módulo — pero pregúntame si mi centro tiene un criterio distinto fijado en su programación (como ocurrió en el proyecto de referencia con la Orden 8/2025 vs. el criterio propio del centro) antes de blindarlo por escrito.
 3. **Estructura didáctica por unidades (UDxx)**: nomenclatura homogénea `UD00, UD01, UD02...`, con UD00 dedicada a presentación del módulo + entorno de trabajo (herramientas digitales, entorno colaborativo, etc.). Reparte las 30 horas totales en las UD que resulten de los bloques de contenido oficiales; muéstrame el reparto propuesto en horas y semanas antes de continuar.
 4. **Web MkDocs**: tema Material, plugins al estilo del proyecto de referencia (`git-revision-date-localized`, `minify`, mermaid, MathJax si hace falta, `mkdocs-jupyter` para notebooks). Configura `mkdocs.yml` con `site_url` ya apuntando a la futura URL de GitHub Pages (`https://github.com/jmperez-profesor/digi-asir`).
 5. **GitHub Pages desde el principio**: crea también el workflow de GitHub Actions (`.github/workflows/deploy.yml`) para construir y publicar automáticamente el sitio MkDocs en cada push a `main`, y documenta en `README.md` los pasos manuales que debo hacer yo en GitHub (crear repo, activar Pages, permisos del workflow).
-6. **Notebooks/prácticas**: si el módulo incluye contenido práctico con herramientas digitales (hojas de cálculo, automatización, IA generativa, ciberseguridad básica, etc.), usa notebooks Jupyter en español dentro de `docs/practicas/UDxx/` para que se rendericen en la web, con botones de descarga y apertura en Colab.
+6. **Notebooks/prácticas**: si el módulo incluye contenido práctico con herramientas digitales (hojas de cálculo, automatización, IA generativa, ciberseguridad básica, etc.), usa notebooks Jupyter en español dentro de `docs/practicas/UDxx/` para que se rendericen en la web, con botones de descarga y apertura en Google Colab.
 7. **Idioma y licencia**: todo en español (es-ES); licencia CC BY-NC-SA 4.0 visible en portada y en `FUENTES.md`.
-8. **No usar contenido previo mío**: no busques ni reutilices materiales antiguos que yo tenga fuera de esta carpeta; todo el contenido nuevo se apoya en fuentes oficiales y en lo que decidamos juntos sesión a sesión.
+8. **Usar contenido**: en la carpeta fuentes he adjuntado pdfs con contenidos de cada unidida didáctica para que te sirva de fuente oficial además de la que puedas obtener de fuentes oficiales y en lo que decidamos juntos sesión a sesión.
+9. **RA6**: La UD7 la usaremos para generar una memoria con el informe de la transformación digital llevada a cabo en una empresa real o ficticia. Además, dicha unidad está incluida en el proyecto intermodular. Dicho informe recoje todos los contenidos trabajados en las unidades anteriores.
 
 ### 4. Trabajo por sesiones (como en el proyecto de referencia)
 
