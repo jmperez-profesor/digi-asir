@@ -3,12 +3,12 @@
 ## 1. Identificación y Contextualización
 - **Módulo profesional**: 1665 — Digitalización aplicada al sistema productivo (GS)
 - **Código**: 1665
-- **Ciclo formativo**: Técnico Superior en Desarrollo de Aplicaciones Web (DAW) — familia Informática y Comunicaciones (el promptrama ASIR es equivalente a efectos del módulo transversal 1665)
+- **Ciclo formativo**: Técnico Superior en Administración de Sistemas Informáticos en Red (ASIR) — familia profesional Informática y Comunicaciones (competencia general: configurar, administrar y mantener sistemas informáticos)
 - **Nivel / Curso**: Grado Superior / 2º Curso (Curso 2026-2027)
 - **Centro**: I.E.S. Severo Ochoa de Elche
-- **Duración**: 34 horas (1 h/semana, 3 ECTS) — cuadro horario oficial DAW (Decreto 114/2025; F01.PC02 p.4)
+- **Duración**: 34 horas (1 h/semana, 3 ECTS) — cuadro horario oficial ASIR (Decreto 114/2025; F01.PC02 p.4)
 - **Modalidad**: Presencial
-- **Marco normativo**: Ley Orgánica 3/2022, Real Decreto 659/2023, RD 405/2023, Decreto 114/2025 (Comunitat Valenciana) y Orden 8/2025 de evaluación.
+- **Marco normativo**: Ley Orgánica 3/2022, Real Decreto 659/2023, RD 1629/2009 (título ASIR), Decreto 114/2025 (Comunitat Valenciana) y Orden 8/2025 de evaluación.
 
 ---
 

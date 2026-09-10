@@ -1,6 +1,6 @@
-# Banco de Pruebas Escritas y Soluciones — Módulo 1665 (DAW)
+# Banco de Pruebas Escritas y Soluciones — Módulo 1665 (ASIR)
 
-Este documento recopila las pruebas de evaluación escritas asociadas a los Resultados de Aprendizaje (RA1 a RA6) del módulo **1665 — Digitalización aplicada al sistema productivo (GS)** para el ciclo de DAW en el I.E.S. Severo Ochoa, con sus soluciones detalladas y ponderaciones del Anexo I.
+Este documento recopila las pruebas de evaluación escritas asociadas a los Resultados de Aprendizaje (RA1 a RA6) del módulo **1665 — Digitalización aplicada al sistema productivo (GS)** para el ciclo de ASIR en el I.E.S. Severo Ochoa, con sus soluciones detalladas y ponderaciones del Anexo I.
 
 ---
 

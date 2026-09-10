@@ -1,4 +1,4 @@
-# Inventario y Especificación del Curso Moodle (1665 — DAW IES Severo Ochoa)
+# Inventario y Especificación del Curso Moodle (1665 — ASIR IES Severo Ochoa)
 
 Estructura de secciones y actividades para Moodle adaptada a las 34 horas del módulo (UD1 a UD7):
 - **Sección 0: Presentación y Guía Docente** (Criterios de calificación: 40% prácticas + 60% exámenes; enlace a GitHub Pages).

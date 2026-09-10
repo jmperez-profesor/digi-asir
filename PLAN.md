@@ -1,11 +1,11 @@
-# Plan Maestro: Digitalización Aplicada al Sistema Productivo (GS) - DAW
+# Plan Maestro: Digitalización Aplicada al Sistema Productivo (GS) - ASIR
 
 ## 1. Identificación del Proyecto
 - **Módulo profesional**: 1665 — Digitalización aplicada al sistema productivo (Grado Superior).
-- **Ciclo formativo**: Técnico Superior en Desarrollo de Aplicaciones Web (DAW).
+- **Ciclo formativo**: Técnico Superior en Administración de Sistemas Informáticos en Red (ASIR).
 - **Centro**: I.E.S. Severo Ochoa de Elche.
 - **Curso académico**: 2026-2027 (2º curso).
-- **Duración**: 34 horas · 1 hora semanal (3 ECTS) — según cuadro horario oficial DAW (Decreto 114/2025 / F01.PC02 p.4).
+- **Duración**: 34 horas · 1 hora semanal (3 ECTS) — según cuadro horario oficial ASIR (Decreto 114/2025 / F01.PC02 p.4).
 - **Comunidad autónoma**: Comunitat Valenciana.
 - **Idioma**: español (es-ES).
 - **Licencia**: CC BY-NC-SA 4.0.
@@ -33,8 +33,8 @@
 | Norma | Referencia oficial | Fecha | Qué aporta al proyecto | Fichero local |
 |---|---|---|---|---|
 | RD 659/2023 | BOE-A-2023-18888 | 18/07/2023 | Currículo básico módulo 1665: RA y CE | `fuentes/RD_659_2023_FP.pdf` |
-| RD 405/2023 | BOE actualización títulos DAW/DAM | 29/05/2023 | Título DAW aplicable en 2026-27 | `fuentes/RD_405_2023.pdf` |
-| Decreto 114/2025 | DOGV 2025/29742 | 04/08/2025 | Currículo autonómico DAW CV (34 h) | `fuentes/Decreto_114_2025_GVA.pdf` |
+| RD 1629/2009 | BOE-A-2009-17267 | 30/10/2009 | Título ASIR y enseñanzas mínimas, aplicable en 2026-27 | `fuentes/RD_1629_2009_ASIR.pdf` |
+| Decreto 114/2025 | DOGV 2025/29742 | 04/08/2025 | Currículo autonómico ASIR CV (34 h) | `fuentes/Decreto_114_2025_GVA.pdf` |
 | LO 3/2022 | BOE-A-2022-5140 | 31/03/2022 | Marco general FP | `fuentes/LO_3_2022_FP.pdf` |
 | Orden 8/2025 | DOGV 2025/13083 | 22/04/2025 | Evaluación LFP CV (85 % asistencia, RA≥5) | `fuentes/Orden_Evaluacion_GVA.pdf` |
 | Resol. SAE 17/07/2025 | DOGV 2025 | 17/07/2025 | Instrucciones organización centros FP 25-26 | `fuentes/Resolucion_SAE_2025.pdf` |

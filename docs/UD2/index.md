@@ -2,7 +2,7 @@
 
 ## Objetivos de Aprendizaje (RA2)
 - Caracterizar las tecnologías habilitadoras digitales (THD) de la Industria 4.0.
-- Relacionar las THD con la economía sostenible, la eficiencia y el desarrollo de nuevos productos y servicios en DAW.
+- Relacionar las THD con la economía sostenible, la eficiencia y el desarrollo de nuevos productos y servicios en ASIR.
 
 ---
 

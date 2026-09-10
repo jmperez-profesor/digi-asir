@@ -22,19 +22,19 @@ Licencia de contenidos y documentación: **CC BY-NC-SA 4.0**.
 - **Uso en el proyecto**: Currículo básico del módulo 1665 (6 RA y CE, Anexo correspondiente).
 - **Fichero local**: `fuentes/RD_659_2023_FP.pdf` (pendiente de descarga/verificación)
 
-### F02b — Real Decreto 405/2023 (actualización títulos DAW/DAM)
-- **Referencia oficial**: Real Decreto 405/2023, de 29 de mayo, por el que se actualizan los títulos de Técnico Superior en DAW/DAM.
-- **URL oficial**: [BOE](https://www.boe.es/eli/es/rd/2023/05/29/405)
-- **Fecha de publicación**: 29/05/2023
-- **Uso en el proyecto**: Título aplicable al IES Severo Ochoa en 2026-27 (frente al RD 1629/2009).
-- **Fichero local**: `fuentes/RD_405_2023.pdf` (pendiente de descarga/verificación)
+### F02b — Real Decreto 1629/2009 (título ASIR)
+- **Referencia oficial**: Real Decreto 1629/2009, de 30 de octubre, por el que se establece el título de Técnico Superior en Administración de Sistemas Informáticos en Red y se fijan sus enseñanzas mínimas.
+- **URL oficial**: [BOE-A-2009-17267](https://www.boe.es/eli/es/rd/2009/10/30/1629)
+- **Fecha de publicación**: 30/10/2009
+- **Uso en el proyecto**: Título ASIR aplicable en el IES Severo Ochoa en 2026-27 (competencia general: configurar, administrar y mantener sistemas informáticos).
+- **Fichero local**: `fuentes/RD_1629_2009_ASIR.pdf` (pendiente de descarga/verificación)
 
 ### F03 — Decreto Autonómico 114/2025 (Comunitat Valenciana)
 - **Referencia oficial**: Decreto 114/2025, de 29 de julio, del Consell (DOGV 2025/29742, 4/8/2025), por el que se establecen los currículos de los ciclos formativos de grado medio y de grado superior de FP en aplicación de la LO 3/2022.
 - **URL oficial**: [DOGV 2025/29742](https://dogv.gva.es/)
 - **Fecha de publicación**: 04/08/2025
-- **Uso en el proyecto**: Currículo autonómico aplicable para DAW y el módulo 1665 (34 h lectivas DAW).
-- **Fichero local**: `fuentes/Decreto_114_2025_GVA.pdf` (pendiente de descarga/verificación) — cuadro horario 34 h DAW para 1665.
+- **Uso en el proyecto**: Currículo autonómico aplicable para ASIR y el módulo 1665 (34 h lectivas ASIR).
+- **Fichero local**: `fuentes/Decreto_114_2025_GVA.pdf` (pendiente de descarga/verificación) — cuadro horario 34 h ASIR para 1665.
 
 ### F04 — Orden de Evaluación (Orden 8/2025 y Orden 5/2026)
 - **Referencia oficial**: Orden 8/2025, de 29 de abril (DOGV 2025/13083), de evaluación del alumnado LFP en la Comunitat Valenciana, y su modificación por Orden 5/2026.
@@ -51,7 +51,7 @@ Licencia de contenidos y documentación: **CC BY-NC-SA 4.0**.
 
 ## 2. Fuentes por Unidad (PDFs aportados en `fuentes/`)
 - **F-UD1 a F-UD7**: PDFs con contenidos de cada unidad didáctica aportados por el centro (uno por UD), usados como fuente primaria junto a BOE/DOGV.
-- **F-F01.PC02**: `fuentes/PD_1665_digitalizacion_aplicada_al_sistema_produc...pdf` — Propuesta didáctica oficial IES Severo Ochoa (F01.PC02, 41 pp., 6 RA, Anexo I ponderaciones).
+- **F-F01.PC02**: `fuentes/PD_1665. Digitalización aplicada al sistema productivo (GS)_Presencial_2026_2027.pdf` — Propuesta didáctica oficial IES Severo Ochoa, ciclo ASIR (F01.PC02, 42 pp., 6 RA, Anexo I ponderaciones).
 - **F-UD1-OCR**: `fuentes/UD1-Digitalizacion-en-los-sistemas-productivos_EDITABLE.pdf` (12 pp., escaneado + capa de texto invisible RapidOCR, ~70.000 caracteres verificados) y `fuentes/UD1-Digitalizacion-en-los-sistemas-productivos_OCR.md` (transcripción por páginas para generar apuntes). Nota: el documento completo se procesó de una vez; los fragmentos `..._parte1.pdf` (pp. 1-4) y `..._parte3.pdf` (pp. 9-12) son subconjuntos del original y `..._parte2.pdf` es copia íntegra (verificado por hash MD5 del renderizado), por lo que no se generan derivados por partes. (Los PDF no se versionan en GitHub por `*.pdf` en `.gitignore`; solo la transcripción `.md`).
 
 > Evaluación por RA (prompt actualizado §3.2): **80 % actividades/prácticas + 20 % cuestionario por RA**, cada RA ≥5. Si el centro mantiene el 40/60 previo del Anexo I, confirmar antes de blindarlo.
