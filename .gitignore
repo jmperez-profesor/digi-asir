@@ -1,6 +1,13 @@
-fuentes/UD1. Digitalización en los sistemas productivos.pdf
-fuentes/UD2. Caracterización de tecnologías habilitadoras.pdf
-fuentes/UD3. Computación en la nube.pdf
-fuentes/UD4. La Inteligencia Artificial.pdf
-fuentes/UD5. Los datos y su protección.pdf
-fuentes/UD6. El plan de transformación digital.pdf
+fuentes/UD1-Digitalización-en-los-sistemas-productivos_parte1.pdf
+fuentes/UD1-Digitalización-en-los-sistemas-productivos_parte2.pdf
+fuentes/UD1-Digitalización-en-los-sistemas-productivos_parte3.pdf
+fuentes/UD1-Digitalizacion-en-los-sistemas-productivos_parte2_EDITABLE.pdf
+fuentes/UD1-Digitalización-en-los-sistemas-productivos.pdf
+fuentes/UD2-Caracterización-de-tecnologías-habilitadoras.pdf
+fuentes/UD3-Computación-en-la-nube.pdf
+fuentes/UD4-La-Inteligencia-Artificial.pdf
+fuentes/UD5-Los-datos-y-su-protección.pdf
+fuentes/UD6-El-plan-de-transformación-digital.pdf
+fuentes/UD7-Proyecto-de-transformación-digital.pdf
+# Ningún PDF debe subirse a GitHub: ni escaneados ni generados (EDITABLE/OCR)
+*.pdf
