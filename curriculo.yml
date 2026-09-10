@@ -104,8 +104,8 @@ unidades:
     horas: 1
     semana_inicio: 1
     semana_fin: 1
-    fecha_inicio: 2026-09-22
-    fecha_fin: 2026-09-22
+    fecha_inicio: 2026-09-15
+    fecha_fin: 2026-09-15
     nota: "Herramientas digitales, AULES/Teams, entorno colaborativo Git (prompt §3.3)"
   - id: UD1
     titulo: Digitalización en los sistemas productivos
@@ -120,10 +120,10 @@ unidades:
       -RA1g: Se han analizado las ventajas de digitalizar una empresa industrial de extremo a extremo
     imparte: este docente
     horas: 5
-    semana_inicio: 1
-    semana_fin: 5
+    semana_inicio: 2
+    semana_fin: 6
     fecha_inicio: 2026-09-22
-    fecha_fin: 
+    fecha_fin: 2026-10-20
   - id: UD2
     titulo: Caracterización de tecnologías habilitadoras
     ra: RA2
@@ -137,19 +137,19 @@ unidades:
       -RA2g: Se ha elaborado un informe que relacione, las tecnologías con sus características y áreas de aplicación
     imparte: este docente
     horas: 5
-    semana_inicio: 6
-    semana_fin: 10
-    fecha_inicio: 
-    fecha_fin: 
+    semana_inicio: 7
+    semana_fin: 11
+    fecha_inicio: 2026-10-27
+    fecha_fin: 2026-11-24
   - id: UD3
     titulo: Computación en la nube
     ra: RA3
     imparte: este docente
     horas: 5
-    semana_inicio: 
-    semana_fin: 
-    fecha_inicio: 
-    fecha_fin: 
+    semana_inicio: 12
+    semana_fin: 16
+    fecha_inicio: 2026-12-01
+    fecha_fin: 2027-01-12
   - id: UD4
     titulo: Inteligencia Artificial
     ra: RA4
@@ -162,10 +162,10 @@ unidades:
       -RA4f: Se ha descrito como influye la IA en el sector del título
     imparte: este docente
     horas: 5
-    semana_inicio: 
-    semana_fin: 
-    fecha_inicio: 
-    fecha_fin: 
+    semana_inicio: 17
+    semana_fin: 21
+    fecha_inicio: 2027-01-19
+    fecha_fin: 2027-02-16
   - id: UD5
     titulo: Big Data
     ra: RA5
@@ -180,10 +180,10 @@ unidades:
       -RA5h: Se han identificado los principales objetivos de la ciencia de datos en las diferentes empresas
     imparte: este docente
     horas: 3
-    semana_inicio: 
-    semana_fin: 
-    fecha_inicio: 
-    fecha_fin: 
+    semana_inicio: 22
+    semana_fin: 24
+    fecha_inicio: 2027-02-23
+    fecha_fin: 2027-03-09
   - id: UD6
     titulo: Ciberseguridad
     ra: RA5
@@ -191,10 +191,10 @@ unidades:
       -RA5i: Se ha valorado la importancia de la seguridad y su regulación en relación con los datos
     imparte: este docente
     horas: 3
-    semana_inicio: 
-    semana_fin: 
-    fecha_inicio: 
-    fecha_fin: 
+    semana_inicio: 25
+    semana_fin: 27
+    fecha_inicio: 2027-03-16
+    fecha_fin: 2027-04-06
   - id: UD7
     titulo: Proyecto de transformación digital
     ra: RA6
@@ -212,14 +212,14 @@ unidades:
       -RA6k: Se han tenido en cuenta la idoneidad de los recursos humanos
     imparte: este docente
     horas: 7
-    semana_inicio: 
-    semana_fin: 
-    fecha_inicio: 
-    fecha_fin: 
+    semana_inicio: 28
+    semana_fin: 34
+    fecha_inicio: 2027-04-13
+    fecha_fin: 2027-05-25
     nota: "Ajuste de 8 h oficiales F01.PC02 a 7 h para cuadrar 34 h totales con UD00 (1 h)"
 
 calendario:
-  inicio_docencia: 2026-09-22
+  inicio_docencia: 2026-09-15
   fin_curso_centro: 2027-05-28
   fin_maximo_legal: 2027-06-18
   dias_clase: [martes]
