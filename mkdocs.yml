@@ -82,21 +82,43 @@ markdown_extensions:
 nav:
   - Inicio: index.md
   - Normativa y Currículo: normativa/index.md
-  - Unidades Didácticas:
-    - "UD00: Presentación y Entorno": UD00/index.md
-    - "UD1: Digitalización en Sistemas Productivos": UD1/index.md
-    - "UD2: Tecnologías Habilitadoras (THD)": UD2/index.md
-    - "UD3: Computación en la Nube": UD3/index.md
-    - "UD4: Inteligencia Artificial": UD4/index.md
-    - "UD5: Big Data": UD5/index.md
-    - "UD6: Ciberseguridad": UD6/index.md
-    - "UD7: Proyecto de Transformación Digital": UD7/index.md
-  - Prácticas y Talleres:
-    - "Prácticas UD00": practicas/UD00/index.md
-    - "Prácticas UD1": practicas/UD1/index.md
-    - "Prácticas UD2": practicas/UD2/index.md
-    - "Prácticas UD3": practicas/UD3/index.md
-    - "Prácticas UD4": practicas/UD4/index.md
-    - "Prácticas UD5": practicas/UD5/index.md
-    - "Prácticas UD6": practicas/UD6/index.md
-    - "Prácticas UD7": practicas/UD7/index.md
+  - UD00:
+    - Presentación y Entorno: UD00/index.md
+    - Prácticas y Talleres:
+      - Ejercicios de autoevaluación: UD00/ejercicios.md
+      - Talleres guiados: practicas/UD00/index.md
+  - UD1:
+    - Digitalización en Sistemas Productivos: UD1/index.md
+    - Prácticas y Talleres:
+      - Ejercicios de autoevaluación: UD1/ejercicios.md
+      - Talleres guiados: practicas/UD1/index.md
+  - UD2:
+    - Tecnologías Habilitadoras (THD): UD2/index.md
+    - Prácticas y Talleres:
+      - Ejercicios de autoevaluación: UD2/ejercicios.md
+      - Talleres guiados: practicas/UD2/index.md
+  - UD3:
+    - Computación en la Nube: UD3/index.md
+    - Prácticas y Talleres:
+      - Ejercicios de autoevaluación: UD3/ejercicios.md
+      - Talleres guiados: practicas/UD3/index.md
+  - UD4:
+    - Inteligencia Artificial: UD4/index.md
+    - Prácticas y Talleres:
+      - Ejercicios de autoevaluación: UD4/ejercicios.md
+      - Talleres guiados: practicas/UD4/index.md
+  - UD5:
+    - Big Data: UD5/index.md
+    - Prácticas y Talleres:
+      - Ejercicios de autoevaluación: UD5/ejercicios.md
+      - Talleres guiados: practicas/UD5/index.md
+  - UD6:
+    - Ciberseguridad: UD6/index.md
+    - Prácticas y Talleres:
+      - Ejercicios de autoevaluación: UD6/ejercicios.md
+      - Talleres guiados: practicas/UD6/index.md
+  - UD7:
+    - Proyecto de Transformación Digital: UD7/index.md
+    - Prácticas y Talleres:
+      - Ejercicios de autoevaluación: UD7/ejercicios.md
+      - Talleres guiados: practicas/UD7/index.md
