@@ -1,55 +1,91 @@
-# Prácticas UD1: Reto Inicial «ImpresiónArte» + Análisis IT/OT
+# Prácticas UD1: Aplicación del plan de digitalización a ImpresiónArte (Sesión 2)
 
-## Actividad 1.0 — Reto de descubrimiento: «ImpresiónArte, digitalizando la impresión textil» (S1–S3)
+> **Sesión**: 22/09 (S2). Los alumnos llegan con la teoría vista en S1–S2: digitalización vs transformación, plan de digitalización y los 4 tipos de transformación.
+> **Estrategia**: aplicar conceptos ya aprendidos al caso real de Sara y Samuel usando IA como herramienta de investigación, no como sustituto del criterio.
 
-> Aprendizaje por descubrimiento **antes** de la teoría. El alumnado aún no conoce los conceptos: los construye investigando con IA y los contrasta después en clase.
+## 1. Situación de partida
 
-### Situación de partida
+Sara y Samuel dirigen el único taller de impresión textil de su localidad (7 personas). Desde 2020 los pedidos caen: sin web, sin tienda online, gestión manual de pedidos e inventario. Quieren digitalizarse para seguir siendo competitivos.
 
-Sara y Samuel, dos jóvenes emprendedores con FP, fundaron la única empresa de impresión textil de su localidad (7 personas en plantilla). Desde 2020 los pedidos han caído: no tienen web ni tienda online ni redes sociales, y su gestión de pedidos, inventario y producción es manual y anticuada. Tras analizar a la competencia, concluyen que digitalizarse es la única forma de seguir siendo competitivos. Necesitan: gestionar pedidos eficientemente, controlar el inventario, optimizar la producción y vender online con una experiencia que no obligue a llamar ni a acudir a la tienda.
+**Objetivo de la sesión**: elaborar un **plan de digitalización preliminar** para ImpresiónArte que justifique cada medida con los conceptos estudiados.
 
-### Organización: grupos puzzle de 3–4 (roles rotativos)
+## 2. Organización: grupos de 3–4 con roles
 
-Cada grupo asume **una sola tarea** de las tres (reparto del profesor para que no se repitan). Roles: **portavoz** (pitch), **secretario/a** (acta y tabla de huella), **técnico/a de IA** (opera el prompt) y **verificador/a** (contrasta con una fuente externa).
-
-### Prompt común obligatorio (ChatGPT, Gemini, Copilot…)
-
-> «Somos estudiantes de FP de Administración de Sistemas. Caso: taller textil de 7 personas sin web ni tienda online, gestión manual de pedidos e inventario. Propón 3 medidas de digitalización ordenadas de menor a mayor coste, indicando para cada una: qué problema resuelve, qué tecnología usa y **qué datos necesitarías para validar que funcionará**. Señala también un riesgo de cada medida.»
-
-### Reglas anti-copia-pega (sin esto no se califica)
-
-1. **Tabla de huella** obligatoria: *qué propuso la IA / qué aceptamos / qué cambiamos y por qué*.
-2. **Una verificación externa** por grupo: contrastar al menos una afirmación de la IA con una fuente real (precio de un ERP, caso de Correos Market, dato del INE…) y citarla.
-3. La IA propone; **el grupo decide y justifica**.
-
-### Tareas por grupo
-
-1. **Aspectos clave**: para cada aspecto del proceso de transformación digital, ¿cómo se aplicaría en ImpresiónArte?
-2. **Tipos de transformación**: de los 4 tipos (procesos, modelo de negocio, dominio, cultura), ¿cuáles aplicarías según las necesidades de Sara y Samuel y en qué orden?
-3. **Impacto**: ¿qué cambiaría en cada ámbito (operaciones, clientes, costes, personas)?
-
-### Exposición: feria de pósters (no expone toda la clase en fila)
-
-- Cada grupo resume su propuesta en **un póster A3 o una diapositiva** con plantilla común: *problema → propuesta → impacto + qué parte hizo la IA*.
-- **Galería ambulante** (20 min): la mitad expone en pitch de 2 min junto a su póster mientras la otra mitad visita; luego se intercambian.
-- **Votación**: cada alumno vota la propuesta más viable (formulario de 2 preguntas) como evidencia de escucha activa y coevaluación.
-
-### Temporalización (UD1 = 5 sesiones de 1 h)
-
-| Sesión | Qué se hace |
+| Rol | Función |
 |---|---|
-| S1 | Briefing (15') + grupos, roles y primer contacto con la IA |
-| S2 | Trabajo en grupo + verificación externa |
-| S3 | Feria de pósters + votación |
-| S4–S5 | Teoría anclada en sus casos («lo que propusisteis se llama…») |
+| **Coordinador/a** | Asegura que se cubren los 4 tipos de transformación y que el plan tiene sentido |
+| **Técnico/a de IA** | Diseña y ejecuta los prompts; copia las respuestas |
+| **Analista** | Rellena la tabla de huella y selecciona qué propuestas de la IA son viables |
+| **Portavoz** | Presenta el resumen al resto (5 min máximo) |
 
-### Evaluación (80 % del RA1)
+## 3. La misión
 
-IE3 (resolución) + IE7 (investigación con IA) + IE8 (póster/pitch) + IE13 (observación). Rúbrica: corrección técnica 30 %, justificación de decisiones 30 %, tabla de huella + fuente verificada 20 %, póster y pitch 20 %.
+Cada grupo debe entregar **un documento (Google Docs / Markdown)** con dos partes:
 
-## Actividad Práctica 1.1: Estudio de Caso IT vs OT
+### Parte A — Diagnóstico de ImpresiónArte
 
-- **Objetivo**: Clasificar sistemas y proponer estrategias de digitalización en una empresa manufacturera.
-- **Tareas**:
-  1. Identificar elementos de planta (sensores, autómatas) frente a elementos de gestión corporativa (ERP).
-  2. Redactar un informe breve sobre las ventajas de conectar ambos mundos.
+Basándose en los conceptos de la teoría, completar:
+
+1. **Digitalización actual**: ¿qué hay ya digitalizado (o no) en el taller?
+2. **Transformación necesaria**: ¿qué cambia realmente con tecnología?
+3. **Tipos de transformación aplicables**: de los 4 (procesos, modelo de negocio, dominio, cultura), ¿cuáles hay que abordar y por qué? Ordenar los tres primeros por prioridad.
+
+### Parte B — Plan de digitalización
+
+Usar la IA para proponer medidas concretas, pero el grupo debe:
+
+1. Ejecutar **al menos 2 prompts distintos** (p. ej., uno centrado en medidas de bajo coste y otro en las prioridades para una pyme de 7 personas).
+2. Rellenar la **tabla de huella** para cada propuesta.
+3. Redactar el **plan** con al menos 4 medidas, cada una con:
+   - Qué problema resuelve (vincular a un tipo de transformación).
+   - Tecnología o herramienta propuesta (p. ej., Odoo, Holded, tienda online, herramienta de factura electrónica).
+   - Coste estimado y viabilidad para 7 personas.
+   - Riesgo o desafío asociado.
+
+## 4. Prompts sugeridos
+
+> **Prompt 1** — «Somos un grupo de FP. Analiza un taller textil de 7 personas sin web ni tienda online, gestión manual de pedidos e inventario, desde 2020. Propón 4 medidas de digitalización ordenadas de menor a mayor coste. Para cada una indica: qué tipo de transformación digital representa (procesos, modelo de negocio, dominio o cultura), la tecnología necesaria, un coste estimado y un riesgo.»
+
+> **Prompt 2** — «Ahora dime cuáles de esas medidas son imprescindibles para los primeros 3 meses y cuáles pueden esperar. ¿Qué plan de contingencia necesitaría una pyme de 7 personas si algo falla?»
+
+> **Prompt 3** — «Busca un ejemplo real de un negocio pequeño (menos de 10 personas) que se haya digitalizado con éxito. ¿Qué hizo? ¿Qué resultado obtuvo? ¿Qué le recomendarías a Sara y Samuel?»
+
+## 5. Reglas anti-copia-pega
+
+1. **Tabla de huella** obligatoria por propuesta: *qué dijo la IA / qué aceptamos / qué cambiamos y por qué*.
+2. **Fuente verificada**: al menos un ejemplo real citado (Correos Market, una pyme de tu ciudad, dato ESIC…).
+3. La IA **propone**; el grupo **decide, justifica y ordena**. Sin tabla de huella la actividad no se califica.
+
+## 6. Entregable
+
+Un documento con:
+- Diagnóstico (Parte A).
+- Plan de digitalización con la tabla de medidas (Parte B).
+- Tabla de huella adjunta o integrada.
+- Nombre de los miembros del grupo.
+
+## 7. Temporalización (Sesión 2, 1 h)
+
+| Minutos | Actividad |
+|---|---|
+| 0–10 | Repaso rápido de conceptos (digitalización vs transformación, 4 tipos, plan de digitalización) |
+| 10–15 | Formación de grupos, asignación de roles |
+| 15–45 | Trabajo en grupo: prompts, análisis, tabla de huella, borrador del plan |
+| 45–55 | Puesta en común: cada grupo expone el plan en 1 min por miembro |
+| 55–60 | Votación rápida (formulario) y cierre |
+
+## 8. Evaluación (RA1 · 80 % actividades)
+
+**Instrumentos**: IE3 (resolución) + IE7 (investigación con IA) + IE13 (observación).
+
+| Criterio | Ponderación | Evidencia |
+|---|---|---|
+| Aplica correctamente los 4 tipos de transformación al caso | 25 % | Parte A del documento |
+| Plan de digitalización coherente, ordenado y con justificación | 25 % | Parte B del documento |
+| Tabla de huella completada y fuentes verificadas | 25 % | Tabla de huella + cita |
+| Cohesión del grupo, roles asumidos y exposición clara | 25 % | Actitud observada + documento firmado |
+
+## 9. Para continuar
+
+- Sesión 3: feria de pósters con la mejor propuesta por grupo (se recicla el formato de galería ambulante).
+- Sesiones 4–5: teoría anclada en los casos que ya han construido.
