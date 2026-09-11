@@ -20,6 +20,21 @@ Dos términos que se confunden y que describen cosas distintas:
 | **Escala de impacto** | Procesos concretos | Organización y cultura completas |
 | **Horizonte** | Paso previo | Proceso largo de evolución continua |
 
+### Tabla de ejemplos actuales (2026 — ciclo ASIR)
+
+Para fijar la diferencia, piensa en cosas que ya usas o vas a usar:
+
+| Situación cotidiana (2026) | Lo que hace → **digitalización** | Lo que cambia → **transformación digital** |
+|---|---|---|
+| **Tu futuro puesto como ASIR** | Guardar tickets de soporte en una carpeta de red | Plataforma de tickets (HelpScout/Zammad) con SLA, base de conocimiento y métricas de satisfacción |
+| **Un restaurante de tu barrio** | Menú en papel con QR que lleva a una web | App propia con pedidos, pago, programa de fidelización y datos de qué platos se venden más a qué horas |
+| **Una peluquería** | Ficha de cliente en Excel | Agenda online, recordatorios automáticos, historial de tratamientos y recomendaciones personalizadas |
+| **Un autónomo transportista** | Factura en PDF por correo | Portal del cliente con albaranes digitales, tracking en tiempo real y conciliación automática con su ERP |
+| **Tu grupo de clase** | Entregar un documento por WhatsApp | Espacio colaborativo (Notion/Teams) con tareas asignadas, calendario de entregas y retroalimentación permanente |
+| **Una tienda de ropa** | Fotos del catálogo en Instagram | Instagram Shop con compra integrada, recomendaciones de IA basadas en tu historial y stock sincronizado en tiempo real |
+| **Un taller mecánico** | Lista de reparaciones en un bloc | Odoo taller: pedidos automáticos, presupuestos firmados electrónicamente, aviso al cliente y facturación sin papel |
+| **La administración** | Formulario que rellenas a mano | Trámite completo telemático con firma electrónica, notificaciones y registro sin desplazamiento |
+
 !!! example "ImpresiónArte"
     Escanear los albaranes y llevar el stock en una hoja de cálculo es **digitalizar**. Conectar una tienda online con el inventario, automatizar pedidos a proveedores y decidir qué imprimir según los datos de venta es **transformar**.
 
