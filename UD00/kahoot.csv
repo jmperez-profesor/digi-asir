@@ -1,0 +1,38 @@
+unidad,tema,pregunta,respuesta,instrumento_evaluacion,tipo
+UD00,Presentación y Entorno,¿Cuántas horas tiene el módulo 1665 y con qué frecuencia semanal se imparte?,"34 horas, 1 hora semanal (martes)",BA1.b,b
+UD00,Presentación y Entorno,¿Qué ponderación tienen las actividades y el cuestionario dentro de cada RA?,80 % actividades/prácticas + 20 % cuestionario,BA1.b,b
+UD00,Presentación y Entorno,¿Qué RA pesa más en la nota final y cuánto?,"RA6 (proyecto de transformación digital), un 30 %",BA1.b,b
+UD00,Presentación y Entorno,¿Cuántas unidades didácticas componen el módulo 1665 en el curso 2026-27?,8 (UD00 a UD07),BA1.b,b
+UD01,Digitalización y transformación digital,¿Qué diferencia un plan de digitalización de la transformación digital?,"El plan es la hoja de ruta (diagnóstico, objetivos medibles, recursos, gestión del cambio); la transformación es el proceso integral de cambio en cultura, procesos, tecnología y estrategia",BA1.b,b
+UD01,Digitalización y transformación digital,¿Cuáles son los cuatro tipos de transformación digital?,"De procesos empresariales, del modelo de negocio, del dominio empresarial y de la cultura de la organización",BA1.b,b
+UD01,Digitalización y transformación digital,"En ImpresiónArte, ¿qué tipo de transformación representa abrir una tienda online?",Transformación digital del modelo de negocio,BA1.b,b
+UD01,Digitalización y transformación digital,Una empresa escanea sus facturas en papel y las guarda en PDF. ¿Es digitalización o transformación digital?,Digitalización (conversión analógico → digital),BA1.b,b
+UD01,Plan de digitalización,¿Qué función cumple un plan de digitalización respecto a la resistencia al cambio?,Incluye estrategias para combatir la resistencia al cambio que pueda aparecer,BA1.b,b
+UD01,Plan de digitalización,¿Por qué un plan de digitalización ayuda a optimizar las inversiones?,"Asigna recursos (tecnología, formación y cambio organizativo) distribuyendo presupuesto y tiempo para maximizar el retorno",BA1.b,b
+UD01,Transformación digital,¿Cuáles son los aspectos clave de la transformación digital?,"Digitalización de procesos, datos y analítica, experiencia del cliente, colaboración y comunicación, innovación y cambio cultural con liderazgo ejecutivo",BA1.b,b
+UD01,Entornos IT y OT,¿Qué es la convergencia IT-OT y por qué se produce?,"Es la integración y alineación de tecnologías y procesos que históricamente estuvieron separados; se produce por la digitalización industrial (Industria 4.0), el IoT y la necesidad de datos unificados",BA1.b,b
+UD01,Entornos IT y OT,¿Cuáles son los 3 factores impulsores de la convergencia IT-OT?,"Digitalización de procesos industriales, proliferación de IoT y necesidad de datos unificados",BA1.b,b
+UD01,Entornos IT y OT,¿Qué es SCADA y qué es un PLC?,SCADA: sistema supervisor de control y adquisición de datos; PLC: controlador lógico programable (autómata),BA1.b,b
+UD01,Entornos IT y OT,¿Cuáles son las principales características de un entorno OT?,"Enfoque en operaciones físicas, tiempo real, seguridad industrial, automatización industrial y dispositivos conectados",BA1.b,b
+UD01,Tecnologías de digitalización,¿Cuáles son los 5 aspectos de la digitalización en planta (enfoque operativo)?,"Automatización y control avanzado, IoT y sensores, gemelos digitales, realidad aumentada y virtual, y sistemas de gestión de activos (AMS)",BA1.b,b
+UD01,Tecnologías de digitalización,¿Cuáles son los 6 aspectos de la digitalización en negocio (enfoque empresarial)?,"Sistemas ERP, analítica avanzada y big data, inteligencia artificial y machine learning, blockchain, computación en la nube e IoT",BA1.b,b
+UD02,Tecnologías Habilitadoras (THD),¿Qué son las Tecnologías Habilitadoras de la Transformación Digital (THD)?,"Conjunto de tecnologías que hacen posible la transformación digital (IoT, cloud, IA, big data, blockchain…)",BA1.b,b
+UD02,Tecnologías Habilitadoras (THD),Cita una THD que haya transformado un producto en un nuevo modelo de negocio,"P. ej., la combinación de sensores + app + nube que convierte una pulsera en un servicio de salud (Internet de las cosas)",BA1.b,b
+UD02,Tecnologías Habilitadoras (THD),"¿Qué diferencia hay entre IaaS, PaaS y SaaS de mayor a menor control del cliente?","IaaS (infraestructura, ejemplo: VPS) > PaaS (plataforma, ejemplo: base de datos gestionada) > SaaS (software, ejemplo: Microsoft 365)",BA1.b,b
+UD03,Computación en la Nube,¿Qué es edge computing y cómo se relaciona con la nube?,"Procesar datos junto a la fuente en vez de en un datacenter remoto; complementa a la nube cuando importan latencia, ancho de banda o privacidad",BA1.b,b
+UD03,Computación en la Nube,Diferencia fog computing de mist computing en una frase,Fog: nodos intermedios locales que pre-procesan para varios dispositivos; mist: el procesamiento baja a los propios dispositivos de red/sensores,BA1.b,b
+UD03,Computación en la Nube,¿Qué ventaja del cloud debe vigilar un administrador de sistemas?,"Dependencia del proveedor, costes desbocados o datos fuera de la UE (riesgos de la nube pública)",BA1.b,b
+UD04,Inteligencia Artificial,¿Qué tipo de tareas rinde mejor la IA en una empresa?,"Volumen y repetición; p. ej., filtrar 300 alertas semanales quedándose con las 5 anómalas",BA1.b,b
+UD04,Inteligencia Artificial,¿Por qué se dice que la IA «no es neutral»?,"Aprende de datos que pueden contener sesgos y sus errores (alucinaciones) tienen consecuencias reales, por lo que debe supervisarse",BA1.b,b
+UD04,Inteligencia Artificial,¿Qué lenguaje asociarías a un pipeline de datos con ML y por qué?,"Python, por su ecosistema (pandas, scikit-learn) y legibilidad para scripts operativos",BA1.b,b
+UD05,Big Data,¿Qué son los 5 V del Big Data?,"Volumen (mucho), velocidad (rápido), variedad (heterogéneo), veracidad (a validar) y valor (útil o coste)",BA1.b,b
+UD05,Big Data,"¿Qué diferencia hay entre dato, información y conocimiento con un ejemplo de red?",Dato: 192.168.1.40. Información: «ese equipo generó 400 errores 403 hoy». Conocimiento: «hay que bloquearlo: es un escaneo»,BA1.b,b
+UD05,Big Data,¿Qué dos cosas debe garantizar una política de retención de datos?,"Qué se guarda y cuánto tiempo, y cuándo y cómo se destruye de forma segura",BA1.b,b
+UD06,Ciberseguridad,¿Qué es la tríada CIA con un ejemplo por letra?,"Confidencialidad (ej. permisos), integridad (ej. hashes/firmas), disponibilidad (ej. copias/redundancia)",BA1.b,b
+UD06,Ciberseguridad,¿Qué plazos de notificación exigen RGPD y NIS2 ante una brecha?,"RGPD: 72 h. NIS2: 24 h (alerta temprana), con responsabilidad directiva",BA1.b,b
+UD06,Ciberseguridad,Cita 3 medidas del kit mínimo del administrador,"MFA en todo lo expuesto, parches al día y segmentación con mínimo privilegio (entre otras)",BA1.b,b
+UD06,Ciberseguridad,¿Qué es la regla 3-2-1 de copias de seguridad?,"3 copias, 2 soportes diferentes y 1 copia externa/offline; la copia no probada no existe",BA1.b,b
+UD07,Proyecto de Transformación Digital,¿Qué CE corresponden al diagnóstico y a los objetivos de un proyecto de digitalización?,"CE a (objetivos estratégicos), b (áreas), c (áreas digitalizables) y e (necesidades presentes/futuras)",BA1.b,b
+UD07,Proyecto de Transformación Digital,¿Qué debe incluir el análisis de brechas de seguridad de un proyecto?,Brecha por área + mitigación concreta (técnica y organizativa),BA1.b,b
+UD07,Proyecto de Transformación Digital,¿Para qué sirve el resumen ejecutivo de una página de un proyecto de digitalización?,"Para que la dirección decida sin leer la memoria entera: qué, cuánto, cuándo y qué gana",BA1.b,b
+UD07,Proyecto de Transformación Digital,¿Qué CE compartes con el proyecto intermodular de FP?,"CE d (encaje de áreas), f (tecnologías por área), i (integración datos/apps) y j (cambios documentados)",BA1.b,b
