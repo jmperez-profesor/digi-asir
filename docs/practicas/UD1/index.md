@@ -1,5 +1,9 @@
 # Prácticas UD1: Reto «ImpresiónArte» por descubrimiento (22/09, 27/09 y S3)
 
+!!! download "Enunciado para el alumnado (Word)"
+    [Descargar el enunciado en formato Word (.docx)](Reto_ImpresionArte_UD1.docx){ .md-button .md-button--primary }
+    Listo para compartir por Teams/OneDrive y que cada grupo lo rellene en edición.
+
 > **Metodología**: Aprendizaje Basado en Descubrimiento (ABD). **No se ha visto teoría**: el alumnado construye los conceptos investigando con IA y los pone en común después.
 > **Herramientas**: Microsoft Copilot + documento de Word online compartido en edición con el grupo y con el profesor.
 > **Secuencia**: 22/09 exploración · 27/09 cierre del reto · S3 teoría y actividad rápida.
