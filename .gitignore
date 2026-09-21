@@ -11,3 +11,8 @@ fuentes/UD6-El-plan-de-transformación-digital.pdf
 fuentes/UD7-Proyecto-de-transformación-digital.pdf
 # Ningún PDF debe subirse a GitHub: ni escaneados ni generados (EDITABLE/OCR)
 *.pdf
+
+# Entorno virtual y sitio generado: no versionar
+venv/
+site/
+__pycache__/
