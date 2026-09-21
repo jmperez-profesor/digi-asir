@@ -10,9 +10,11 @@ EQ ue sabes de...?
 RETO
 para tomar conclencla
 *Tus datos import ans, wna inlciativa
+
 1. 2Que son los datos?
 2. El ciclo de vida de los datos
 Los datos y su proteccion
+
 3. La seguridad de los datos
 K
 
@@ -108,12 +110,14 @@ decis lo nes. Por ejemplo, si una empresa cbserva que esa temperatura
 Se repite con frecuencla, podna decidir crear productos de verano.
 ACTIVIDADES
 Este proceso es clave para las empresas. Las organizaciones recogen
+
 1. En clase, cada persona debe escrblr en post its ejemplos concretos de sltuaciones cotidianas en las que
 grandes cantidades de datos, pero solo aquellas que saben converti los en
 te sj Hsod so sounf pez que tio 'sojsandka uyisa soduela so sopoy anb zan eun 'sojep ezln o eraueb
 declsiones mas inteligentes.
 cate gor la tiene mas ejemplos y reflexiona d sobre el motivo.
 Datos:
+
 2. Ha bora un mapa de compara clon y contraste para expllcar la di fer en cla entre dato e informa clon. Usa
 Es una representar ion
 [Tenlo en cuenta!
@@ -121,6 +125,7 @@ un ejemplo para apoyar tu explica clon.
 simple de un hecho.
 mucho. Pero cuando la colocamos en su lugar y la conectamos con olras,
 Un dato es como una pleza suelta de un puzle: por sf sola no nos dice
+
 3. En grupos peque d los, Investiga d un caso real de una empresa que haya utillzado los datos para desa
 empieza a revelarse la l mag en completa. Asf fun clon a la transformacion
 soepenb senbda anb e uegeiouopejuesand eun pee dad hope nou u owuas oornpod un jeou
@@ -472,17 +477,21 @@ Vido C9
 sip un lad
 aslrella
 aniltsis y prcsenhdion.
+
 4. Realiza un d la grama de flujo lneal que lustre el ciclo de vida de los datos. Ahade una explica clon breve
 de cada fase y de como se re lac lo nan entre sl en el proceso completo.
+
 5. En grupos pequefos, debatld la slguente cuesllonc A qulen pertenecen los datos generados por una
 persona, a ella misma o a las empresas que los recogen? Al fin all zar, resumld en un texio breve las prin
 Clpales concluslones.
 oapu ananq un cqegi sauolspep jewo eed solep ezlwn ou anb es and w a eun ue seleqey enb eufewl *g
 dingldo a tu responsable, exp llc ando le que es el big data, que caracteristicas lo definen y como podha
+
 7. Realiza d la rutina de pen sam lento Preguntas estrella sobre el almacenamiento de datos en la nube.
 ap ejuaweuey cun ap epnfe e uoo sepeuopoaes sequnfand selap eun sefaed jodpapuodsansandsan
 Int eligen cla artificlal genera ti va. Finalmente, comparti d en grupo las respuestas obtenldas y comen tad
 brevemente lo aprendido.
+
 8. Hlaborad un mapa mental para representar la relacion entre los conceptos big data, anal sis de datos,
 5.2.6. Uso de los datos
 ep Jes uepand so sau o se que yo sajuanbis se1 te o yue epueyejuy a bupweey dhap thuweey aulyoew
@@ -652,6 +661,7 @@ accede a Info mac lon digital til en e un papel clave en la pro tec clon de los
 Proteger tus datos:
 lo que si puedes
 datos. Aunque ex stan slstemas de seg url dad tecnlcos, muchas brechas
+
 9. Crea una thlogralia en la que re presentes los prlhclpales desgos que amenazan la segun dad de los da
 tos en una organlzaclon. Incluye al menos clnco tipos de riesgo, una breve descrpclon de cada uno y un
 hacer
@@ -659,9 +669,11 @@ ocurren por peque has acc lo nes colldlanas que podrfan evitarse faclmente.
 ejemplo practlco que ayude a comprender como se manifiesta en la re all dad.
 ger tanto la informacion de la empresa como la de sus client ies.
 aloud A sobsay J juan and eied jeouasa sa sesiopid se u en q Jeode 'osa lod
+
 10. Se lec clon a un dlesgo de seguridad y elabora un diagrama de causas: y con se e u en e las para ldentificar
 es juan and apend owgo A jauel apand sojpaje pnb 'eoonoid ol anb
 psand renbens ue salqeode sepipew uog eouejsuoo A pepqesuodsai
+
 11. Durante una semana, obs era tu uso cotidiano de dls positivos digitales. Anota al menos clnco acc lo nes
 de trabajo y contnbuyen de forma dre cta a mantener un en tomo digital
 que podrfan representar un dlesgo y para cada una, pro pon metodos para re all zar las de foma segura.
@@ -674,6 +686,7 @@ a datos personales 0 sensibles. A partir de la Informa clon re cop lla da, elabo
 Actiwar la autentica clon de dos lac lores (zr A) Afa dir metodos de aul
 sucedido, como ocumo, que Impacto tuvo y que medidas se tomaron pos tenor mente.
 Sau oseo de A seweisls e lepeoge eied sae u o pipe u pp e siu el
+
 13. Aplica la rutina de pensamiento Antes pensaba, ahora plenso escnblendo primero que sabias antes so-
 Aclualzar programas y sistemas operativos:
 bre la lmportancia de gestionar blen los datos, y luego que has aprendldo tras el estudio de esta unidad
@@ -702,6 +715,7 @@ naras correcta men le?
 a Sabes que es el big data y como ayuda a las empresas?
 ve p and owpo A sojep sol ap pep un bas eq yoo sopeuopepl sobsay safedpuud sol uos salpnw saqes?
 protegerse las empresas frente a ellos?
+
 1. No, moge nadh o no sabria hace lo, 2. Tengo ura ide aproximwda, me su e nar 3. Lo sey creo que podhia ha culo
 Qrespwdelo mis o menws corerlamenle; 4. Lo se, bo podria haeer e inc uso podhia explicarlo a un wompafiero
 R

@@ -148,6 +148,7 @@ Todo beneficio trae obligaciones:
 - **Dependencia tecnológica**: no digitalizar procesos críticos del negocio para los que no se cuenta con un **plan de contingencia**. Si fuera necesario, en primer lugar se diseña dicho plan, teniendo en cuenta la tecnología que se pretende integrar y analizando adecuadamente las debilidades, amenazas, fortalezas y oportunidades que nos brinda.
 
   El **plan de contingencia** es el conjunto de medidas y procedimientos establecidos por una organización para abordar situaciones imprevistas o emergencias, cuyo propósito es minimizar el impacto de eventos inesperados y asegurar la continuidad operativa al proporcionar pautas claras y acciones específicas para gestionar y recuperarse de tales eventos. Incluye:
+  
   1. Dispositivos, aplicaciones y servicios especializados, que pueden estar integrados en la empresa o externalizados.
   2. Protocolos de seguridad y configuraciones de los dispositivos.
   3. **Formación y concienciación** del personal para identificar y protegerse de ataques.

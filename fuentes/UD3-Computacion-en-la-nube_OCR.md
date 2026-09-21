@@ -17,6 +17,7 @@ con mwestros propios juegos
 dela nube
 enla nube
 La computacion en la nube
+
 3. La computacion en el borde
 
 ## Página 3
@@ -272,19 +273,25 @@ Pitch
 Muehea
 burbuja sap and ida
 品
+
 1. Graba un video eleva tor pltch para explicar que es la nube o la computacion en la nube a una persona
 que desconoce completamente el concepto.
+
 2. Elabora un d la grama de flujo lineal que detalle el proceso de funcionamiento de la nube. Para ilustrar lo
 ejemplo que sea de tu interes.
+
 3. imagina que trabajas en una empresa relacionada con tu sector de estudios y que la direccion esta con-
 si de rand o implementar un programa en la nube para gestionar sus facturas, pero tiene dudas sobre su
 corweniencia. Escribe un breve informe: en el que expliques las ventajas de esta tecnologia
+
 4. Plasma en un mapa de burbuja exp-and ida los beneficios y desafios de la computacion en la nube. Des-
 pues, organiza d un debate en el aula para contestar a la siguiente pregunta: g El uso creciente de sol uci o
 nes basadars en la nube mejora o compromete el futuro de las empresas de tu sector?
+
 5. Analiza las herramientas y servicios que usas en tu rutina diaria, ya sea en el ambito personal, academico
 0 profesional. Con los resultados obtenidos, elabora una Inffografia que muestre de manera visual que
 herramientas dependen de la nube y cuales funcionan en local.
+
 6. Investiga el impacto ambiental de los centros de datos y su relacion con el consumo de energia y la
 huella de carbono. A partir de la informacion obtenida, re de cta un articulo explicando los retos medio a m
 bien tales que plantea el uso de servicios en la nube.
@@ -653,8 +660,10 @@ ACTIVIDADES
 Mapa de burbaja
 lafografia
 aps pue dra
+
 7. Elabora un mapa de burbuja exp and ida para exponer de forma esquema tica los modelos de servicios
 en la nube y sus caracteristicas.
+
 8. Compara los tres modelos de servicios en la nube. Puedes hacerlo copiando y completando en tu cua
 deno una tabla como la siguiente.
 laas
@@ -664,8 +673,10 @@ Que ofrece?
 LQ ue control tlene el usuarlo?
 Que nivel de persona liza clon t len en los ser vlc los?
 Que con o clm lentos tecnlcos necesita el usuarlo?
+
 9. Investiga si hay algu in Saa S especializado que se utilice de forma habitual y extendida en el sector de tus
 explique las ventajas que ofrece.
+
 10. Elabora una Info graf a que exponga de forma clara y visual los distintos modelos de implementacion de
 la nube y sus caracteristicas.
 
@@ -764,8 +775,10 @@ E atr le gia
 Iafegralia
 Y contraste
 pera tia 1-2-4
+
 11. Elabora un mapa de compara clon y contraste para analizar conjuntamente los modelos de com puta-
 cion en la nube y computacion en el borde.
+
 12. Lleva d a cabo la estrategia cooperativa 1-2-4 para debatir sobre las ventajas de modelos de compu-
 Bed sap uan bis sosed sol jnbas sepod (upn doo isw (a A boy (a aepa ga ooo) epnqusp upioe)
 completar la actividad:
@@ -774,6 +787,7 @@ mas completa posible.
 En parejas, com parad ambas listas y consensuad una en comin.
 Finalmente, en grupos de cuatro personas, comparti d vuestras anotaciones para sacar una conclu-
 sion final.
+
 13. En parejas, realiza d una investigacion sobre las posibles aportaciones de la computacion en el borde en
 el sector de vuestros estudios. Podeis hacer una busqueda por inte mm et y consultarlo con aplicaciones
 como Chat GPT. Pres en tad los resultados de la inwestigacion en una Infografia
@@ -786,6 +800,7 @@ Og Sabes que es un servidor?
 ●&Sabes que quieren decir las siglas Saa S?
 +&Sabes que leyes regulan la proteccion de tus datos digitales?
 g Sabes que es la computacion en el borde?
+
 1. No, no se nada ono sab rta hace do 2. Tengo una idea aproddmada, me suena, 3. Lo se y creo que podhia hacer k o.
 0 fes pon der lo mis o menos co recta mente, 4. Lo se, ko podria hacer e inc uso podria eplicarko a un compa fiero
 O companera.

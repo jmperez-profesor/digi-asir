@@ -15,6 +15,7 @@ TED xl A: un laboratorio para explorar la
 1. La irrupcion de la IA
 2. Entender la IA
 La inteligencia artificial
+
 4. La IA ysus
 3. Aplicar la IA
 implicaciones eticas
@@ -155,11 +156,14 @@ Mapa der (o
 burbaja
 1l. Graba un audio dirigido a un compa fiero o compa ni era que desconoce que es la IA. Explica el concepto
 con tus propias palabras e incluye al menos dos ejemplos concretos del dia a dia.
+
 2. Investiga la figura de Alan Turing y crea una Inffograffia que re suma quien fue, en que consiste su famoso
 Test de Turing y como sus ideas han influido en el desarrollo de la IA actual.
+
 3. Pensad como podria transformar la A vuestro sector profesional en los proximos weinle afos. Cada
 se una herramienta como Padier). La aportacion debe incluir un texto breve que describa la idea y una
 imagen que la represente visualmente.
+
 4. Elabora un mapa de burbuja en el que se representen al menos cinco sectores profesionales donde la IA
 ya se esta aplicando. Para cada sector, a ni a de una breve descripcion de como se utiliza la IA.
 
@@ -628,14 +632,17 @@ Mapa de comparacion
 Iafogmafia
 ACTIVIDADES
 y contraste
+
 5. Imagina que tienes que explicar a tus contactos en redes sociales como aprende una IA. Elabora un vf-
 deo en el que re su mas el proceso de aprendizaje de la IA utilizando un ejemplo concreto. Puedes elegir
 una situacion cotidiana, como el funcionamiento de una plataforma de streaming o un sistema de: reco
 men dacion es en una tienda online.
+
 6. Crea un mapa de compara clon y contraste para comparar la AN i y la AG l.
 7. Investiga, con ayuda de una herramienta de IA (por ejemplo, Chat GPT o Perplexity). cuales son los len-
 gua jes de programacion mas comunes en el desarrollo de sistemas de IA. Elabora una Info graf fia en la
 Vi e ered sajuejoduu uos gnb od ap vproeohjdxa eun A safenbuel san souaw je ueszaede anb
+
 8. Genera un texto con instrucciones para formular un prompt de forma correcta. Hazlo ayudando te de
 herramientas de IAG.
 
@@ -792,6 +799,7 @@ tra sta la informacion y usa tu cri le rio.
 ACTIVIDADES
 Di grama de fajo
 nlonmalica
+
 9. Lee las siguientes: situaciones.
 + Es cenar lo A. Usas una plataforma de contenidos sin sistema de recomendacion automatica. Cada
 wez que quieres ver una pelicula, debes buscar manualmente el siguiente titulo entre todo el catalogo
@@ -799,6 +807,7 @@ disponible.
 ●Esc e nan lo B. Trabajas en un pequeho comercio donde los pedidos se realizan a mano. Las: deci si o-
 nes se toman a partir de la experiencia del personal, sin anailisis automatizado de datos de ventas.
 ni entes de incorporar IA en las situaciones descritas.
+
 10. Escoge una tarea que re a lic es: habitualmente en tus estudios o en tu vida diaria y busca una herramienta
 actual sin IA y otro con IA, y redacta una breve conclusion comparando ambos enfoques.
 de IA que podria ayudarte a hacer la de forma mas eficiente. Elabora un d la grama de flujo del proceso
@@ -1029,12 +1038,14 @@ UIT4 la intcligencia artificial 71
 Pide ast
 ACTIVIDADES
 Anbes pensaba_ ahora ple mso
+
 12. Realiza la rutina de pensamiento Antes pensaba._. ahora plenso en relacion con la IA. Sigue estos
 pasos:
 B epadwog ejboouoal esa aqos seapi seunbje sejual V el anqos jefe q en ap saue anb osnbag (e
 frase =Sobre la IA, antes pensaba..s.
 b) Ahora, piensa como tus ideas han cambiado como resultado de lo estudiado. Completa la frase
 e Sobre la IA, ahora pienso_s.
+
 13. En grupos de cuatro, gra bad un p6dcast en el que de bat ais la siguiente cita de Alan Turing ela cuestion
 cua o e y o anb aasn souopugoey soweyebua uapand rs ours he su a d va p and seuinbew se rs sa ou
 Durante el debate, reflexiona d sobre las siguientes preguntas:
@@ -1053,6 +1064,7 @@ c Sabes que es la inteligencia artificial y como esta impactando en los sectores
 ● &Sabes que es la inteligencia artificial genera ti va y como crea contenidos mediante prom pts?
 ● c Sabes como se esta aplicando la inteligencia artificial a las empresas?
 c Sabes que implicaciones eticas tiene el uso de la inteligencia artifcial?
+
 1. No, no se nada ono sabria hacerlo, 2. Tengo una idea a pro di mada, me suena, 2. Lo se y creo que podia hacer k o
 O companera.
 0 responder o mtis o menos co recta mente, 4. Lo se, ko podia hacer e ind uso podr ia eqlicarko a un compa fiero

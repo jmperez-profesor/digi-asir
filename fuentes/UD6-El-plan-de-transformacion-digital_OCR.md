@@ -12,6 +12,7 @@ RETO
 Pon en marcha el cam b lo:
 proyecto de transformacl6n dlgital
 para wna empresa real
+
 1. El plan de
 2. Hoja de ruta del plan de
 transformacion digital
@@ -78,6 +79,7 @@ ACTIVIDADES
 Audla
 Responsabilidades. aque personas serin las responsables de cada as
 pecto de la transformacion digital?
+
 1. P lens a en la empresa donde vas a re all zar tus practilcas o en otra del sector de tus estudios. Investiga sl
 esta empresa cuenta con un plan de transforma clon dlgital. Graba un audio explicando tus reflexiones:
 Ewaluacldn. g Como se evaluara el progreso y el exito de la transfomaclon?
@@ -87,6 +89,7 @@ les aporta.
 nas trabajadoras para los cam b los que traera la transfomaclon?
 Sl la empresa no dispone de un plan, exp llc a sl consideras que deber la tener o y por que podria bene
 fic la rse de eso.
+
 2. Hla hora un mapa de burbuja que ilustre los objetivos que persigue un plan de transforma clon digital.
 3. Lee las slgulentes afi mac lo nes e Indlcar sl son verdaderas o falsas. Justifica tu respuesta.
 a) Un plan de transforma clon digital ayuda a que la empresa se adapte mejor al en tomo digital y a los
@@ -98,6 +101,7 @@ duclr en la organlzacion.
 sesandwa sapuerb e eode as oos q en bip ugpewojsuey ap ued un (o
 Flg 61 Es impor lante que
 todhs hsperonna deh
+
 4. Plde a Chat GPT uotra he ram lenta de IA de texto que des a rol le un plan de transforma clon digltal de una
 empresa del sector de tus es tu d los. i Grees que responde a todas las preguntas clave que debe contestar
 org a ni e cion con o can d phn
@@ -177,6 +181,7 @@ avance hacla la realiza clon del objelivo.
 Aleanzables. Re all stas y factibles, considerando los recursos y el tiem-
 po disponibles.
 6.2.1. Diagnostico inicial
+
 + Achlewa ble
 Tarea 2
 Antes de empezar, es fundamental realizar un diagnostico Iniclal para en-
@@ -394,6 +399,7 @@ Tujolinanl
 Dlanmndo
 Anlenuhs
 Una vez que se han lmplementado los cam b los en el marco de un plan de
+
 5. Resume en un d la grama de flujo ineal los pasos que hay que segulr para implementar un plan de trans-
 forma clon digital Descdbe brevemente en que consiste cada uno de ellos.
 transformacion dlgital, hay que llevar a cabo una evaluacidn de resultados y
@@ -408,10 +414,12 @@ Ja de trabajo para confimmar que los hayas formulado come cta mente.
 transformacion
 to de las acciones Implementadas, comparando los re su dia dos obten l-
 dos con los: objellvos estrateglcos previamente de fin l dos.
+
 7. Hla bora un diagrama de flujo che u lar que muestre el proceso de evaluacion de resultados en un plan de.
 digital
 transfomaclon digltal.
 La mejora continua es un enfoque slstematico que busca optimlzar de
+
 8. Realza la rutina de pen sam lento Antes pensaba, ahora plenso para reflexionar sobre tu opinion y actl-
 manera constante los procesos, productos o servicios de una organl
 tud ante los cam b los tecnologlcos. Completa las sig u lentes ora clones.
@@ -478,6 +486,7 @@ Ppecialrmenle si no se explican bien sus bene lic ios o si temen perder su pues 
 ● a Sabes como se e valian los resultados de un plan de transfomaclon dig lit al?
 Falta de competencias digitales. Cuando el personal no ha sido lomadoadecuadhmenle, se reduce
 h cpacidad de utilirar muevas te cmo logias de: loma eli cien le.
+
 1. No, o se nada o no sahriahawelo, 2. Tengo una idea a pro di mada, me suena, 3. Lo se y creo que pohia hac el b
 Gestion deficiente del proceso
 aras ni srg

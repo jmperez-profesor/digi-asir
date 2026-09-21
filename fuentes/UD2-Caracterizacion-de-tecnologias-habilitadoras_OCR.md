@@ -98,10 +98,12 @@ eydue A jeqof ooiqnd un e uan fall se sau due se anb aqrsod aoey (eno
 signihicativamenle las oportunidades de negocio.
 ACTIVIDADES
 Palbrs, Idn, frasn
+
 1. Vuelve a leer el apartado 2.1. del contenido teorico y realiza la rutina de pensamiento Palabra, idea, frase:
 a) Hlige una palabra que consideres clave para entender el contenido.
 a u esa e u o a que pod u saepisuoo anb eapl eun eoynuapl (q
 c) Redacta una frase que re suma el concepto principal del texto.
+
 2. For mad grupos de cuatro personas y comparti d las palabras, ideas y frases seleccionadas en la activi-
 nes de vuestro grupo al resto de la clase.
 
@@ -604,14 +606,19 @@ Esta integracion se realiza mediante dispositivos como telefonos int eligen
 sobre objetos y espacios fisicos. Esta capacidad de superposicion amplia
 la percepcion del mundo real y genera nuevas formas de interactuar con él.
 El funcionamlento de la RA se basa en estos pasos clave:
+
 1. Desarrollo del contenido virtual Este primer paso implca la creacion
 de los elementos virtuales y la programacion del soffware de: RAL.
+
 2. Captura de la realidad. Al activar sus dispositivos de RA, los usuarios
 eau owojue ja jeunqdeo e u a o edu e sao su as A serewgo anb uagwuad
+
 3. Proc e sam lento de datos. El sofftware de RA analiza los dalos captura
 dos en el entormo real.
+
 4. Superposicidn de elementos virtuales Con los dstos procesados, el
 sistema a ii a dle elementos digitales a la imagen del mundo real.
+
 5. Interaecldn. La RA permite al usuario interactuar con los elementos vifr-
 tu al es usando gestos, toques en la pantalla o comandos de voz.
 La realidad mixta (RM) es una tecnologfa avanzada que fusiona el e men-
@@ -642,6 +649,7 @@ burbuja
 opun Biaud wu
 yconlrante
 1-2-4
+
 3. Hla bora un mapa de burbuja exp and ida que ilustre las principales THD y sus caracteristicas mais desta-
 cadas.
 4L. Hl SG es una tecnologia en desarrollo y expansion. Consulta el mapa interactivo de n Perf (hitps://www.
@@ -651,19 +659,23 @@ a)&Que regiones del mundo tienen una mayor infraestructura de SG?
 b) c A que factores crees que se debe esto?
 c) z Existen diferencias entre las distintas zonas de Espana? g Que patrones observas?
 d) Como podrfan impactar estas diferencias en el de sarro o economico de kos paf ses y zonas?
+
 5. Observa cuidadosamente los objetos a tu alrededor e identifica aquellos dispositivos de lo T que recogen
 datos del mundo fisico y los mandan por medio de internet a un software que los analiza. Estos pueden
 rodul es apand ueyopoq ep se ops ya pee o sul ap eun epeo pnb od opueordxa eyeifopu eun earg rg
 tante para la informacion que gestionan las empresas del sector de tus estudios.
+
 7. Hl uso creciente de robots en las empresas genera preocupaciones en relacion con la perdida de em-
 contestando las preguntas planteadas:
 isele ajue Aey sepuauejp A sapnwws znb? eseuabpw seq ue seuasqo anb? (e
 b) e Que opiniones o reflexiones te surgen al observar las imagenes?
 e) Que preguntas, dudas o inquietudes te provocan las imaigenes?
+
 8. Hla bora un mapa de compara e ion y contraste para reflexionar sobre las diferencias entre la RV y la RA
 9. Piensa como se podrfan aplicar las tecno log fas in mer si vas en el sector productivo de tus estudios. Des-
 pues, levad a cabo la estrategia cooperativa 1-2-4 para consensuar con tus com paf le ros y com paf le
 ras las ideas que os: parezcan mas in le res antes.
+
 10. Elabora un informe en el que relaciones las THD con sus caracterfsticas fundamentales y sus principales
 aire as de aplicackon. Para ello, identifica ejemplos concretos que ilustre n como estas tecno log fas impac-
 tan en el sector productivo de tus estudios.
@@ -793,6 +805,7 @@ ACTIVIDADES
 elewuler pitch
 Video con
 in lo gea lia
+
 11. For mad grupos de cuatro personas e imaginad que sois el equipo de innovacion de una empresa del
 eseq opezeuosad opaas un o (ol a pue pa o pepe u o o opnpod un odela od (epfip eopqey
 sec lo r productivo de vuestros estudios. Di se had un nuevo produclo o servicio basado en una tecnologia
@@ -874,16 +887,21 @@ Video
 In lo gea lin
 Anlus peng
 ahora pie nao
+
 13. Hla bora un wideo explicando a las personas que te siguen en las redes sociales que es el desarrollo sos-
 te ni ble y por que es importante que las empresas lo apliquen.
+
 14. Busca infor mma cion sobre los objetivos de desarrollo sostenible (ops) y selecciona aquellos que se rela
 ep eoy ap ebuoba sol anb eeibopug eun eoqea sand sag sopnsa sni ap jopas a yoo ueuop
 Relaciona los con los retos de desarrollo sostenible de tu sector.
+
 15. Busca informacion sobre el agua que consume la inteligencia artificial y completa la rutina de pensa-
 miento Antes pensaba, ahora pienso.
+
 16. Redacta un informe breve en el que expliques como las THD pueden ayudar a las empresas de tu sector
 de estudios a ser mas sostenibles. Analiza un area especifica, como la gestion eficiente de recursos, la
 reduccion del impacto ambiental o la promocion de energfas renovables, e incluye ejemplos concretos.
+
 17. Busca informacion sobre innovaciones digitales que contribuyan al desarrollo sostenible y elabora un
 video con imagenes presentando las que mas lamen tu atencion.
 TAREA FINAL
@@ -901,6 +919,7 @@ c Sabes cdmo las tecno log fas hablitadoras digitales contnbuyen a la sostenibil
 eficiente?
 c Sabes identificar ejemplos concretos de tecnologias como el lo T, el big data o el blockchain en el
 en tomo empresarial?
+
 1. No, no se nada o no sabria hacer k o, 2. Tengo ura idka aprox ir mad ha, rme suena, 3. Lo se y oreo que podhia hacer k?
 o respondedko mtis o rrnos con ed amen le, 4. Lo sa, ko podhia heoer e irekuso podhia exp fe ark o a un con pa nai o
 0 compa fiera.

@@ -109,8 +109,10 @@ La digitalizacion se presenta como la clave para lograr
 todo esto.
 
 Tareas
+
 1. Indicaremos, para cada uno de los aspectos clave del proceso de transformacion digital, como podrian apli-
 car sea Impresion Arte.
+
 2. Elegiremos entre los tipos de transformacion digital que podrian llevarse a cabo en Impresion Arte, cuales
 3. Explicaremos que impacto tendria la digitalizacion de la empresa en los diferentes ambitos.
 
@@ -260,6 +262,7 @@ el plan asegura una transicion ordenada y efectiva hacia modelos den e-
 gociodigitales, esenciales para mantener la relevancia y competitividad
 enla era digital.
 Actividades
+
 1. ROLE-PLAY ING. Tarea. Un plan de digitalizacion es un instrumento clave para la transformacion digital de las empresas. Sinem-
 Teniendo en cuenta los motivos indicados en este apartado, divididlaclaseendos grupos para realizar un role-play. Todos sereis
 trabajadores de una empresa de vuestro sector. Sinembargo, uno de los grupos representa a la parte directiva de la empresa
@@ -397,6 +400,7 @@ Un ejemplo de este modelo seria la implementacion de programas de
 capacitacion para desarrollar las habilidades digitales de los empleados
 en tecnologias que pudieran incorporarse a corto plazo en su trabajo
 Actividades
+
 2. TU SECTOR PROFESIONAL. Tarea. Expresion oral. Accede a la pagina web de Co-
 rreos Market (<https://bit.ly/491sErk>) y consulta el listado de los vendedores que
 estan dados de alta en la plataforma.
@@ -655,6 +659,7 @@ mer cia les. La estructura exacta, asi como el numero o las responsabilidades,
 puede variar segun el tamano y la industria de la empresa.
 Operadores de help desk en una empresa.
 Actividades
+
 3. TU SECTOR PROFESIONAL. Tarea. Analisis. Creacion. Ya conoces los diferentes departamentos que pueden formar parte de un
 entorno IT. Cada uno de ellos hace referencia aun tipo de tarea muy concreta dentro del mundo de las tecnologias de la informacion.
 entorno IT indicando brevemente a que se dedicaria cada uno de ellos en relacion con las necesidades tecnologicas de la empresa.
@@ -757,6 +762,7 @@ impera ti va. Estas colaboraciones estrategicas permiten el intercambio de
 conocimientos y recursos, facilitando asi la adopcion efectiva de las tec-
 no logias emergentes.
 Actividades
+
 4. EXPRESION ORAL. Tarea. En el blog La Ecuacion Digital, su autor nos habla de la convergencia IT-OT como reto clave para alcanzar
 el exito en la digitalizacion industrial.
 En la noticia recoge una afirmacion de Daniel Se sena, directordeindustria4.0enMinsait, que dice asi:
@@ -872,6 +878,7 @@ ofrecemos el siguiente de Computer Hoy:
 informacion valiosa para la toma de decisiones.
 <https://bit.ly/42cxmR6>
 Actividades
+
 5. TU SECTOR PROFESIONAL. 
 Tarea. Di vi did la clase en grupos pequenos. A cada grupo se le asignara uno ovarios de los aspectos
 de digitalizacion estudiados en clase (como sistemas ERP, gemelos digitales, analitica avanzada, inteligencia artificial, blockchain,
@@ -1041,6 +1048,7 @@ rat iva, sino que tambien posicion a a la empresa industrial para enfrentar
 los desafios del futuro y capitalizar las oportunidades emergentes en un
 entorno empresarial cada vez mas digital y competitivo.
 Actividades
+
 6. TU SECTOR PROFESIONAL. Tarea. Analisis. El objetivo de esta actividad es fomentar la comprension de las ventajas de la trans for-
 mac ion digital integral y su aplicacion en el sector productivo del ciclo del alumnado a traves de la creacion de una tabla de analisis.
 Cada grupo de estudiantes debe elegir o identificar una empresa real o ficticia relacionada con la familia o ciclo que esta estudiando.
@@ -1068,6 +1076,7 @@ empresas presentadas y una reflexion sobre el impacto general de la transformaci
 
 ## Página 18
 Actividades. Ponte a prueba
+
 7. Encuentra los tres errores que aparecen en cada uno de los siguientes textos y redacta los de manera correcta.
 La transformacion digital yla digitalizacion son
 conceptos distintos pero relacionados.
@@ -1097,6 +1106,7 @@ un desafio en su implantacion llamado resistencia al
 cambio, que se supera aplicando una comunicacion
 efectiva, educando y haciendo participe a todo
 el personal.
+
 8. Completa el siguiente texto con las palabras que faltan.
 La..........(IT) yla...........(OT) son
 areas distintas dentro de una organizacion;la IT se
@@ -1202,6 +1212,7 @@ Point, Google Slide s, Libre Office, Canva, Genial l yo Prezi, entre otras.
 ## Página 21
 EVALUO MIS CONOCIMIENTOS
 RESUELVE EN TU CUADERNO O BLOC DE NOTAS
+
 1. Un plan de digitalizacion prepara a la empresa para la
 6. Es lo mismo digitalizacion que transformacion digital?
 transformacion digital porque..
@@ -1221,6 +1232,7 @@ d) Si. De hecho, los dos terminos se utilizan in distinta-
 d) Ayuda a optimizar las inversiones en tecnologia, capa-
 mente.
 citacion y cambio organizacional.
+
 7. Cual de los siguientes No es un tipo de transformacion
 2. Cual de los siguientes No es un aspecto clave en el pro-
 digital?
@@ -1233,6 +1245,7 @@ c) Transformacion digital en la gestion de residuos.
 c) El uso de datos y analiticas.
 d) Transformacion digital del modelo de negocio.
 d) Dispositivos mas potentes para los empleados.
+
 8. Uno delos principales efectos de implantacion de la tec-
 3. Una de las principales caracteristicas deun entorno OT
 no logia en los procesos y operaciones de la empresa
@@ -1248,11 +1261,13 @@ c) El uso de sistemas de gestion empresarial.
 responsables de los procesos.
 c) La necesidad de asignar mas recursos a esos proce-
 d) La implantacion de herramientas de comunicacion.
+
 4. Cuales delos siguientes aspectos corresponden a la
 sos y operaciones.
 d) La reduccion de la jornada laboral de los empleados.
 digitalizacion en negocio?
 a) Big data.
+
 9. A que nos referimos con el termino entorno IT?
 b) Inteligencia artificial.
 a) Al conjunto de la informacion de una organizacion con
@@ -1261,6 +1276,7 @@ c) Blockchain.
 b) A todos los dispositivos electronicos instalados en la
 d) Todos los anteriores.
 empresa, incluidos los de los empleados.
+
 5. Por que es importante que tengamos en cuenta aspec-
 c) Ala tecnologia usada para supervisar los dispositivos
 tos de la ciberseguridad en el proceso de transformacion
@@ -1269,6 +1285,7 @@ digital?
 d) Ninguna de las anteriores.
 a) Porque la ciberseguridad es una cuestion que esta
 muy de moda y puede favorecer nuestra imagen de
+
 10. Al enfoque operativo en el proceso de digitalizacion de
 empresa.
 un entorno empresarial se le conoce como..
@@ -1283,25 +1300,30 @@ d) Digitalizacion en planta.
 
 ## Página 22
 EVALUO MIS COMPETENCIAS
+
 1. INVESTIGACION y EXPRESION ORAL. Realiza d una investigacion en grupo sobre las diferencias
 entre digitalizacion y transformacion digital, utilizando ejemplos especificos para demostrar como
 se aplican en los siguientes sectores industriales:tecnologia e informatica, salud y farmaceutica,
 finanzas y banca, energia y recursos naturales, manufactura y produccion industrial, comercio
 electronico, telecomunicaciones, construccion, educacion y formacion, transporte y logistica.
+
 2. DEBATE y PENSAMIENTO CR i TICO. Accede ala web de Espana Digital (<https://bit.ly/47GjRKv>) y
 navega por el la para ver las diferentes secciones, los programas de digitalizacion oferta dos, los
 ultimos avances, etc. Organiza dun debate en clase sobre la agenda Espana Digital, discutiendo
 como podria impactar en diversos sectores economicos y profesionales, y analizando su posible
 influencia en el futuro del mercado laboral.
+
 3. ROLE-PLAY ING y ANALISIS. Realiza d una actividad de role-play ing en la que simuleisserparte
 de una que seria que realiza todos los procesos de gestion (logistica, personal, etc.) de manera
 tradicional. La mitad de la clase debe defender la postura de mantenerlos procesos de gestion tal
 y como se llevan acabo en la actualidad, mientras que la otra mitad de la clase debe estara favor
 de implementar sistemas ERP y CRM. Deberan analizar se tanto los desafios como los beneficios,
 discutiendo el impacto que generaria la implementacion de dichos sistemas en la organizacion.
+
 4. ANALISIS y EXPRESION ESCRITA. Realiza un estudio de caso sobre la transformacion digital de
 Correos Market (<https://bit.ly/491sErk>), analizando como la digitalizacion afecta a los negocios
 locales y artesanos, y escribiendo un informe detallado sobre las conclusiones.
+
 5. INVESTIGA C i ON. Repartid entre diferentes grupos de tres o cuatro personas las diferentes ca-
 tegoriasdelatiendade Correos Market. Realiza dun analisis de cinco de los vendedores de cada
 los hallazgos en una exposicion oral en clase.
@@ -1319,10 +1341,12 @@ Machine learning
 Gemelos digitales
 Blockchain
 Ciberseguridad
+
 7. CREACION y COMPETENCIA DIGITAL. Disena una infografia en la que re presentes de manera gra-
 ficay atractiva las diferentes ventajas que supone la transformacion digital integral. Para llevarla
 a cabo puedes utilizar cualquier herramienta que consideres, como Canva, Genial l y, Piktochart,
 etc.
+
 8. PROYECTO y RESOLUCION DE PROBLEMAS. Desarrolla d un proyecto grupal para la integracion
 la transformacion de procesos y operaciones.
 tal iza cion, como sistemas E, analitica avanzada, nteligenciaartifici al blockchain, etc., ele
