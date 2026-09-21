@@ -3,51 +3,38 @@
 > Transcripción semiautomática (RapidOCR + segmentación ES). Puede contener errores de espaciado/acentuación. Fuente: `fuentes/UD1-Digitalización-en-los-sistemas-productivos_unapagina.pdf` (24 pp., una hoja por página, sin mezcla de columnas izquierda/derecha). Revisión pendiente.
 
 ## Página 1
-1
-Digitalizacion
-en los sistemas
-productivos
-Vamos a aprender
-J00000
+### 1. Digitalizacion en los sistemas productivos
+#### Vamos a aprender
 1. Digitalizacion y transformacion digital
 2. Implantacion de la tecnologia de empresa
-OJJ0001
 3. Entornos IT y OT
-4. Tecnologias de digitalizacion en planta y en
-100001
-negocio
+4. Tecnologias de digitalizacion en planta y en negocio
 5. Transformacion digital integral
-SITUACION DE PARTIDA
+
+##### SITUACION DE PARTIDA
 Impresion Arte, digitalizandolaim presion textil
-1roo0m
-RETO PROFESIONAL RESUELTO
+
+##### RETO PROFESIONAL RESUELTO
 Digitalizacion en negocio
-RETO PROFESIONAL
-IIIII
+
+##### RETO PROFESIONAL
 1. Digitalizacion en planta
 2. Transformacion digital integral
-JJJJJ
-Resultados de aprendizaje
+
+#### Resultados de aprendizaje
 1. Analiza el concepto de digitalizacion y su
 repercusion en los sectores productivos,
-100
 teniendo en cuenta la actividad de la empresa
 e identificando entornos IT y OT caracteristicos.
-Objetivos
-Sabras diferenciar entre digitalizacion y trans for-
-mac ion digital.
-Relacion aras la implantacion dela tecnologia di-
-gital conla organizacion de las empresas.
-Establecer as diferencias y similitudes entre los en-
-tornos IT y OT.
-ldentificaraslos departamentos tipicos de la sem-
-presas que pueden constituir entornos IT.
-Seleccionar as tecnologias tipicas de la digital iza-
-cion en planta y en negocio.
-Analizar as la importancia de la conexion entre en-
-tornos IT y OT.
-Conoceras las ventajas de digitalizar una empresa
-industrial de extremo a extremo.
+
+#### Objetivos
+* Sabras diferenciar entre digitalizacion y transformacion digital.
+* Relacion aras la implantacion dela tecnologia digital con la organizacion de las empresas.
+* Establecer as diferencias y similitudes entre los entornos IT y OT.
+* Identificaras los departamentos tipicos de las empresas que pueden constituir entornos IT.
+* Seleccionaras tecnologias tipicas de la digitalizacion en planta y en negocio.
+* Analizaras la importancia de la conexion entre entornos IT y OT.
+* Conoceras las ventajas de digitalizar una empresa industrial de extremo a extremo.
 
 ## Página 2
 Organizo mis ideas
@@ -83,41 +70,48 @@ IT
 clientes y el mercado
 procesos y operaciones
 Transformacion digital integral
-Situacion de partida
+
+### Situacion de partida
 Impresion Arte, digitalizando la impresion textil
+
 Sara y Samuel son dos jovenes emprendedores que,
-tras realizar un analisis de la competencia, han com-
 tras finalizar sus estudios de formacion profesional,
-prendido que la digitalizacion de su sistema es la unica
 decidieron fundar la unica empresa de impresion textil
-forma de mantenerse competitivos en el mercado de
 de su localidad. Gracias a su pasion inquebrantable por
-la impresion textil.
 la moda y la tecnologia, lograron convertir su modesto
 taller en un exitoso negocio local en el que trabajan,
-Necesitan una solucion que les permita gestionar efi-
-cien te mente los pedidos, controlar el inventario de
-ademas de ellos dos, otras cinco personas mas.
-materiales y optimizar la produccion. Ademas, quieren
-Sinembargo, desdeelano2020, ya causa de la pan-
-ofrecera sus clientes una experiencia en linea, de modo
-demia, los pedidos de la tienda han descendido e nor-
-que puedan ver los diferentes productos a traves de una
-me mente;ademas, su sistema de gestion de pedidos
-pagina web y realizar los pedidos directamente desde
-y produccion esta anticuado, ya que no disponen de
-esta, sin tener que llamar por telefono, mandar un co-
+además de ellos dos, otras cinco personas mas.
+
+Sin embargo, desde el año 2020, ya causa de la pan-
+demia, los pedidos de la tienda han descendido enor-
+memente;ademas, su sistema de gestion de pedidos
+y producción está anticuado, ya que no disponen de
 pagina web ni tienda online ni redes sociales para darse
-rreoelectronicooacud ira la tienda.
 a conocer en internet.
-La digitalizacion se presenta como la clave para lograr
+
 Viendo peligrar el negocio que con tanta ilusion habian
-todo esto.
 comenzado, han decidido tomar cartas en el asunto y,
+tras realizar un analisis de la competencia, han com-
+prendido que la digitalizacion de su sistema es la unica
+forma de mantenerse competitivos en el mercado de
+la impresion textil.
+
+Necesitan una solucion que les permita gestionar efi-
+cientemente los pedidos, controlar el inventario de
+materiales y optimizar la produccion. Ademas, quieren
+ofrecer a sus clientes una experiencia en linea, de modo
+que puedan ver los diferentes productos a traves de una
+pagina web y realizar los pedidos directamente desde
+esta, sin tener que llamar por telefono, mandar un co-
+rreo electronico o acudir a la tienda.
+
+La digitalizacion se presenta como la clave para lograr
+todo esto.
+
 Tareas
-1. Indica remos, para cada uno de los aspectos clave del proceso de transformacion digital, como podrian apli-
+1. Indicaremos, para cada uno de los aspectos clave del proceso de transformacion digital, como podrian apli-
 car sea Impresion Arte.
-2. Elegir emos entre los tipos de transformacion digital que podrian llevarse a cabo en Impresion Arte, cuales
+2. Elegiremos entre los tipos de transformacion digital que podrian llevarse a cabo en Impresion Arte, cuales
 3. Explicaremos que impacto tendria la digitalizacion de la empresa en los diferentes ambitos.
 
 ## Página 3
@@ -126,12 +120,9 @@ La digitalizacion y la transformacion digital son terminos relacionados, pero
 se refieren a conceptos distintos.
 La digitalizacion se centra en el proceso de convertir informacion, procesos
 y recursos de formato no digital a formato digital. Implica la conversion
-01
-1010010110
 de elementos fisicos, como documentos en papel, formularios, procesos
 manuales, etc., a una representacion digital. La digitalizacion facilita la ma-
-1110110
-nipulacionelectronic a de datos, su almacenamiento eficiente y su procesa-
+nipulacion electronica de datos, su almacenamiento eficiente y su procesa-
 importante para la modernizacion de procesos, pero no necesariamente
 10
 implica un cambio cultura lo una transformacion completa dela empresa.
@@ -777,8 +768,7 @@ mas comprensible. A continuacion, se pondran en comun las conclusiones alcanzada
 expresiones como<hoja de ruta>，《actores, sistemas y activos de la empresa>y《arquitectura tecnologica escala ble>.
 
 ## Página 13
-4. Tecnologias de digitalizacion en planta
-y en negocio
+4. Tecnologias de digitalizacion en planta y en negocio
 Al ahora de digitalizar un entorno empresarial, sees-
 tableceundobleenfo que:por un lado, tendremos el
 enfoque operativo (centrado en las operaciones fisicas
@@ -882,7 +872,8 @@ ofrecemos el siguiente de Computer Hoy:
 informacion valiosa para la toma de decisiones.
 <https://bit.ly/42cxmR6>
 Actividades
-5. TU SECTOR PROFES l ONAL. Tarea. Di vi did la clase en grupos pequenos. A cada grupo se le asignara uno ovarios de los aspectos
+5. TU SECTOR PROFESIONAL. 
+Tarea. Di vi did la clase en grupos pequenos. A cada grupo se le asignara uno ovarios de los aspectos
 de digitalizacion estudiados en clase (como sistemas ERP, gemelos digitales, analitica avanzada, inteligencia artificial, blockchain,
 etc.), conel fin de investigar y presentar un ejemplo real de digitalizacion en planta y/o enel negocio.
 Dentro de cada grupo debe reis seleccionar una empresa de vuestro sector que utilice el aspecto de digitalizacion asignado. Po-
