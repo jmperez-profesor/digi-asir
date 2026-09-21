@@ -1,91 +1,131 @@
-# Prácticas UD1: Aplicación del plan de digitalización a ImpresiónArte (Sesión 2)
+# Prácticas UD1: Reto «ImpresiónArte» por descubrimiento (Sesiones 22/09 y 27/09)
 
-> **Sesión**: 22/09 (S2). Los alumnos llegan con la teoría vista en S1–S2: digitalización vs transformación, plan de digitalización y los 4 tipos de transformación.
-> **Estrategia**: aplicar conceptos ya aprendidos al caso real de Sara y Samuel usando IA como herramienta de investigación, no como sustituto del criterio.
+> **Metodología**: Aprendizaje Basado en Descubrimiento (ABD). **No se ha visto teoría**: el alumnado construye los conceptos investigando con IA y los pone en común después.
+> **Herramientas**: Microsoft Copilot + documento de Word online compartido en edición con el grupo y con el profesor.
+> **Duración**: 2 sesiones de 45 min. La primera (22/09) es la exploración; la segunda (27/09) cierra, completa y comparte.
+
+!!! question "¿Por qué dos sesiones y no una?"
+    Con 45 min, entre acceder al Word, compartirlo en edición y abrir Copilot se van ~10 min. Quedan 30–35 min reales: suficientes para **explorar y empezar**, pero no para descubrir, contrastar, redactar y exponer. La segunda sesión permite madurar lo descubierto y cerrar con una puesta en común (que es donde de verdad se aprende). Intentarlo todo en un día obliga a correr y convierte el descubrimiento en copia-pega.
 
 ## 1. Situación de partida
 
-Sara y Samuel dirigen el único taller de impresión textil de su localidad (7 personas). Desde 2020 los pedidos caen: sin web, sin tienda online, gestión manual de pedidos e inventario. Quieren digitalizarse para seguir siendo competitivos.
+Sara y Samuel dirigen el único taller de impresión textil de su localidad (7 personas). Desde 2020 los pedidos caen: no tienen web ni tienda online ni redes sociales, y su gestión de pedidos, inventario y producción es manual y anticuada. Tras analizar a la competencia, concluyen que digitalizarse es la única forma de seguir siendo competitivos.
 
-**Objetivo de la sesión**: elaborar un **plan de digitalización preliminar** para ImpresiónArte que justifique cada medida con los conceptos estudiados.
+**Pregunta motriz**: *¿Qué le está pasando a ImpresiónArte y qué debería hacer para no desaparecer?*
 
-## 2. Organización: grupos de 3–4 con roles
+## 2. Cómo se organiza
+
+- **Grupos de 3–4 personas**. El profesor comparte por Teams/OneDrive un **documento Word online** con este enunciado y las plantillas a rellenar.
+- El documento se comparte **en modo edición** con los compañeros de grupo y con el profesor (así se ve el trabajo de cada uno y la evolución).
+- **Roles** (el profesor los reparte para que no coincidan):
 
 | Rol | Función |
 |---|---|
-| **Coordinador/a** | Asegura que se cubren los 4 tipos de transformación y que el plan tiene sentido |
-| **Técnico/a de IA** | Diseña y ejecuta los prompts; copia las respuestas |
-| **Analista** | Rellena la tabla de huella y selecciona qué propuestas de la IA son viables |
-| **Portavoz** | Presenta el resumen al resto (5 min máximo) |
+| **Coordinador/a** | Controla el tiempo y que todas las preguntas queden respondidas |
+| **Piloto de Copilot** | Escribe los prompts y pega las respuestas en el documento |
+| **Analista** | Decide qué respuestas de la IA son válidas y rellena la tabla de huella |
+| **Portavoz** | Presenta las conclusiones en la puesta en común del 27/09 |
 
-## 3. La misión
+## 3. Desarrollo — Sesión 1 (22/09): descubrir
 
-Cada grupo debe entregar **un documento (Google Docs / Markdown)** con dos partes:
+> Objetivo: entender el problema de ImpresiónArte y empezar a descubrir, sin teoría, qué soluciones existen y de qué tipo son.
 
-### Parte A — Diagnóstico de ImpresiónArte
+### Bloque A — Exploración con Copilot (15 min)
 
-Basándose en los conceptos de la teoría, completar:
+1. Abrid Copilot y pedidle que analice el caso de ImpresiónArte.
+2. Preguntadle **qué problemas concretos** tiene el taller y **qué soluciones** propone.
+3. Volcad las 5 ideas que os parezcan más importantes en la tabla del documento.
 
-1. **Digitalización actual**: ¿qué hay ya digitalizado (o no) en el taller?
-2. **Transformación necesaria**: ¿qué cambia realmente con tecnología?
-3. **Tipos de transformación aplicables**: de los 4 (procesos, modelo de negocio, dominio, cultura), ¿cuáles hay que abordar y por qué? Ordenar los tres primeros por prioridad.
+### Bloque B — Descubrir la diferencia (10 min)
 
-### Parte B — Plan de digitalización
+Preguntad a Copilot: *«¿Qué diferencia hay entre digitalizar y transformar digitalmente?»* y responded en el documento con vuestras palabras:
 
-Usar la IA para proponer medidas concretas, pero el grupo debe:
+- ¿Escanear las facturas en papel es digitalizar o transformar? ¿Por qué?
+- ¿Abrir una tienda online que se conecta sola con el inventario es digitalizar o transformar? ¿Por qué?
+- Inventad vosotros **un ejemplo de cada uno** que no os haya dado la IA.
 
-1. Ejecutar **al menos 2 prompts distintos** (p. ej., uno centrado en medidas de bajo coste y otro en las prioridades para una pyme de 7 personas).
-2. Rellenar la **tabla de huella** para cada propuesta.
-3. Redactar el **plan** con al menos 4 medidas, cada una con:
-   - Qué problema resuelve (vincular a un tipo de transformación).
-   - Tecnología o herramienta propuesta (p. ej., Odoo, Holded, tienda online, herramienta de factura electrónica).
-   - Coste estimado y viabilidad para 7 personas.
-   - Riesgo o desafío asociado.
+### Bloque C — Descubrir los tipos de cambio (10 min)
 
-## 4. Prompts sugeridos
+Preguntad a Copilot *«¿Qué tipos de transformación digital existen?»* y clasificad las soluciones del Bloque A según el tipo de cambio que suponen. Rellenad la tabla.
 
-> **Prompt 1** — «Somos un grupo de FP. Analiza un taller textil de 7 personas sin web ni tienda online, gestión manual de pedidos e inventario, desde 2020. Propón 4 medidas de digitalización ordenadas de menor a mayor coste. Para cada una indica: qué tipo de transformación digital representa (procesos, modelo de negocio, dominio o cultura), la tecnología necesaria, un coste estimado y un riesgo.»
+### Cierre de la sesión 1 (5 min)
 
-> **Prompt 2** — «Ahora dime cuáles de esas medidas son imprescindibles para los primeros 3 meses y cuáles pueden esperar. ¿Qué plan de contingencia necesitaría una pyme de 7 personas si algo falla?»
+Cada grupo guarda el documento (queda en la nube, compartido) y anota **una duda** que quiera resolver el 27/09.
 
-> **Prompt 3** — «Busca un ejemplo real de un negocio pequeño (menos de 10 personas) que se haya digitalizado con éxito. ¿Qué hizo? ¿Qué resultado obtuvo? ¿Qué le recomendarías a Sara y Samuel?»
+## 4. Desarrollo — Sesión 2 (27/09): cerrar y compartir
 
-## 5. Reglas anti-copia-pega
+> Objetivo: completar el plan, verificar la información y poner en común lo descubierto.
 
-1. **Tabla de huella** obligatoria por propuesta: *qué dijo la IA / qué aceptamos / qué cambiamos y por qué*.
-2. **Fuente verificada**: al menos un ejemplo real citado (Correos Market, una pyme de tu ciudad, dato ESIC…).
-3. La IA **propone**; el grupo **decide, justifica y ordena**. Sin tabla de huella la actividad no se califica.
+### Bloque D — Verificar y decidir (15 min)
 
-## 6. Entregable
+1. Elegid **una afirmación de Copilot** (un precio, una herramienta, un dato) y **contrastadla** con una fuente real (web oficial, catálogo, noticia). Citad la fuente.
+2. Rellenad la **tabla de huella**: *qué dijo la IA / qué aceptamos / qué cambiamos y por qué*.
 
-Un documento con:
-- Diagnóstico (Parte A).
-- Plan de digitalización con la tabla de medidas (Parte B).
-- Tabla de huella adjunta o integrada.
-- Nombre de los miembros del grupo.
+### Bloque E — Primer plan de digitalización (15 min)
 
-## 7. Temporalización (Sesión 2, 1 h)
+Redactad **4 medidas** ordenadas por prioridad, cada una con: problema que resuelve, tipo de transformación, herramienta propuesta, coste aproximado y un riesgo.
+
+### Bloque F — Puesta en común (15 min)
+
+Cada portavoz expone en 2 min: el problema, la medida estrella y **qué descubrió que no sabía**. El profesor recoge los conceptos que van apareciendo (digitalización, transformación, tipos, plan…) y **les pone nombre**: aquí es donde se introduce la teoría de la UD1.
+
+## 5. Prompts sugeridos para Copilot
+
+> **Prompt 1** — «Analiza este caso: un taller de impresión textil de 7 personas, sin web ni tienda online, gestión manual de pedidos e inventario, con caída de ventas desde 2020. ¿Qué problemas tiene y qué soluciones digitales propondrías?»
+
+> **Prompt 2** — «¿Qué diferencia hay entre digitalización y transformación digital? Ponme ejemplos de un taller pequeño.»
+
+> **Prompt 3** — «¿Qué tipos de transformación digital existen? Clasifica estas soluciones [pegar las del Bloque A] según su tipo.»
+
+> **Prompt 4** — «¿Cuánto costaría aproximadamente [herramienta concreta] para una empresa de 7 personas? ¿Qué alternativa gratuita o barata hay?»
+
+## 6. Reglas anti-copia-pega
+
+1. **Tabla de huella** obligatoria: sin ella, la actividad no se califica.
+2. **Fuente verificada**: al menos una afirmación de Copilot contrastada con una fuente real y citada.
+3. La IA **propone**; el grupo **decide y justifica** con sus palabras.
+
+## 7. Entregable (Word online compartido)
+
+Un único documento por grupo con:
+- Bloque A: tabla de problemas y soluciones.
+- Bloque B: diferencia digitalizar/transformar + ejemplos propios.
+- Bloque C: clasificación de soluciones por tipo de cambio.
+- Bloque D: tabla de huella + fuente citada.
+- Bloque E: plan de 4 medidas.
+- Nombre de los miembros y roles.
+
+## 8. Temporalización
+
+**Sesión 1 — martes 22/09 (45 min)**
 
 | Minutos | Actividad |
 |---|---|
-| 0–10 | Repaso rápido de conceptos (digitalización vs transformación, 4 tipos, plan de digitalización) |
-| 10–15 | Formación de grupos, asignación de roles |
-| 15–45 | Trabajo en grupo: prompts, análisis, tabla de huella, borrador del plan |
-| 45–55 | Puesta en común: cada grupo expone el plan en 1 min por miembro |
-| 55–60 | Votación rápida (formulario) y cierre |
+| 0–10 | Acceso al Word online, compartir en edición, formar grupos y repartir roles |
+| 10–25 | Bloque A: exploración con Copilot |
+| 25–35 | Bloque B: descubrir la diferencia digitalizar/transformar |
+| 35–43 | Bloque C: descubrir los tipos de cambio |
+| 43–45 | Guardar y anotar la duda para el 27/09 |
 
-## 8. Evaluación (RA1 · 80 % actividades)
+**Sesión 2 — martes 27/09 (45 min)**
+
+| Minutos | Actividad |
+|---|---|
+| 0–15 | Bloque D: verificar con fuente real + tabla de huella |
+| 15–30 | Bloque E: plan de 4 medidas |
+| 30–45 | Bloque F: puesta en común y encaje de la teoría |
+
+## 9. Evaluación (RA1 · 80 % actividades)
 
 **Instrumentos**: IE3 (resolución) + IE7 (investigación con IA) + IE13 (observación).
 
 | Criterio | Ponderación | Evidencia |
 |---|---|---|
-| Aplica correctamente los 4 tipos de transformación al caso | 25 % | Parte A del documento |
-| Plan de digitalización coherente, ordenado y con justificación | 25 % | Parte B del documento |
-| Tabla de huella completada y fuentes verificadas | 25 % | Tabla de huella + cita |
-| Cohesión del grupo, roles asumidos y exposición clara | 25 % | Actitud observada + documento firmado |
+| Descubre y explica la diferencia digitalización/transformación | 20 % | Bloque B |
+| Clasifica correctamente las soluciones por tipo de cambio | 20 % | Bloque C |
+| Plan coherente, priorizado y justificado | 25 % | Bloque E |
+| Tabla de huella + fuente verificada | 20 % | Bloque D |
+| Participación, roles y claridad en la puesta en común | 15 % | Observación + documento compartido |
 
-## 9. Para continuar
-
-- Sesión 3: feria de pósters con la mejor propuesta por grupo (se recicla el formato de galería ambulante).
-- Sesiones 4–5: teoría anclada en los casos que ya han construido.
+!!! tip "Truco para el aula"
+    Como el Word es compartido, en la puesta en común puedes proyectar un documento de cada grupo y ver *quién escribió qué* (historial de versiones). Eso te da evidencia objetiva del reparto de trabajo sin depender solo de la observación.
