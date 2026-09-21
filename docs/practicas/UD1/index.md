@@ -1,11 +1,11 @@
-# Prácticas UD1: Reto «ImpresiónArte» por descubrimiento (Sesiones 22/09 y 27/09)
+# Prácticas UD1: Reto «ImpresiónArte» por descubrimiento (22/09, 27/09 y S3)
 
 > **Metodología**: Aprendizaje Basado en Descubrimiento (ABD). **No se ha visto teoría**: el alumnado construye los conceptos investigando con IA y los pone en común después.
 > **Herramientas**: Microsoft Copilot + documento de Word online compartido en edición con el grupo y con el profesor.
-> **Duración**: 2 sesiones de 45 min. La primera (22/09) es la exploración; la segunda (27/09) cierra, completa y comparte.
+> **Secuencia**: 22/09 exploración · 27/09 cierre del reto · S3 teoría y actividad rápida.
 
-!!! question "¿Por qué dos sesiones y no una?"
-    Con 45 min, entre acceder al Word, compartirlo en edición y abrir Copilot se van ~10 min. Quedan 30–35 min reales: suficientes para **explorar y empezar**, pero no para descubrir, contrastar, redactar y exponer. La segunda sesión permite madurar lo descubierto y cerrar con una puesta en común (que es donde de verdad se aprende). Intentarlo todo en un día obliga a correr y convierte el descubrimiento en copia-pega.
+!!! question "¿Por qué dos sesiones para el reto y una tercera de teoría?"
+    Con 45 min, entre acceder al Word, compartirlo en edición y abrir Copilot se van ~10 min. Quedan 30–35 min reales: suficientes para **explorar y empezar** (22/09) y para **cerrar y compartir** (27/09), pero no para descubrir, contrastar, redactar, exponer *y además* formalizar la teoría. Por eso la S3 se reserva a **poner nombre a lo descubierto** con una actividad rápida de refuerzo. Intentarlo todo en un día obliga a correr y convierte el descubrimiento en copia-pega.
 
 ## 1. Situación de partida
 
@@ -52,9 +52,9 @@ Preguntad a Copilot *«¿Qué tipos de transformación digital existen?»* y cla
 
 Cada grupo guarda el documento (queda en la nube, compartido) y anota **una duda** que quiera resolver el 27/09.
 
-## 4. Desarrollo — Sesión 2 (27/09): cerrar y compartir
+## 4. Desarrollo — Sesión 2 (27/09): cerrar el reto
 
-> Objetivo: completar el plan, verificar la información y poner en común lo descubierto.
+> Objetivo: completar el plan, verificar la información y compartir las conclusiones descubiertas.
 
 ### Bloque D — Verificar y decidir (15 min)
 
@@ -63,13 +63,37 @@ Cada grupo guarda el documento (queda en la nube, compartido) y anota **una duda
 
 ### Bloque E — Primer plan de digitalización (15 min)
 
-Redactad **4 medidas** ordenadas por prioridad, cada una con: problema que resuelve, tipo de transformación, herramienta propuesta, coste aproximado y un riesgo.
+Redactad **4 medidas** ordenadas por prioridad, cada una con: problema que resuelve, tipo de cambio que supone, herramienta propuesta, coste aproximado y un riesgo.
 
 ### Bloque F — Puesta en común (15 min)
 
-Cada portavoz expone en 2 min: el problema, la medida estrella y **qué descubrió que no sabía**. El profesor recoge los conceptos que van apareciendo (digitalización, transformación, tipos, plan…) y **les pone nombre**: aquí es donde se introduce la teoría de la UD1.
+Cada portavoz expone en 2 min: el problema, la medida estrella y **qué descubrió que no sabía**. Se comparan las propuestas de los distintos grupos y se dejan apuntadas las conclusiones comunes. **No se formaliza aún la teoría**: eso se hace en la S3.
 
-## 5. Prompts sugeridos para Copilot
+## 5. Desarrollo — Sesión 3: explicar conceptos y reto rápido
+
+> Objetivo: convertir lo descubierto en conocimiento formal y fijarlo con una actividad breve.
+
+### Bloque G — De lo descubierto a la teoría (20 min)
+
+El profesor recoge lo que los grupos han trabajado y **pone nombre** a los conceptos, apoyándose en sus propias conclusiones:
+
+- **Digitalización vs transformación digital**: se parte de los ejemplos que ellos inventaron en el Bloque B.
+- **Los tipos de transformación**: se ordenan las medidas del Bloque E según el tipo de cambio (procesos, modelo de negocio, dominio, cultura).
+- **Plan de digitalización**: se explica por qué lo que hicieron (diagnóstico → objetivos → medidas → riesgos) *es* un plan.
+
+### Bloque H — Reto rápido de fijación (20 min)
+
+Actividad corta de refuerzo (una de estas, a elección del profesor):
+
+- **Semáforo de casos**: se proyectan 6 situaciones reales y cada grupo levanta tarjeta *verde* (digitalización), *ámbar* (transformación) o *roja* (no es ninguna). Se justifica la respuesta.
+- **El caso imposible**: se da a cada grupo una pyme ficticia con un problema concreto y debe proponer **una sola medida**, indicando su tipo de transformación. Luego se contrasta entre grupos.
+- **Caza el error**: se entrega una propuesta de digitalización con 3 errores conceptuales y hay que detectarlos y corregirlos.
+
+### Cierre (5 min)
+
+Síntesis oral: «¿Qué hemos descubierto? ¿Cómo lo llamamos ahora?». Se enlaza con el resto de la unidad (IT/OT, tecnologías en planta y negocio).
+
+## 6. Prompts sugeridos para Copilot
 
 > **Prompt 1** — «Analiza este caso: un taller de impresión textil de 7 personas, sin web ni tienda online, gestión manual de pedidos e inventario, con caída de ventas desde 2020. ¿Qué problemas tiene y qué soluciones digitales propondrías?»
 
@@ -79,13 +103,13 @@ Cada portavoz expone en 2 min: el problema, la medida estrella y **qué descubri
 
 > **Prompt 4** — «¿Cuánto costaría aproximadamente [herramienta concreta] para una empresa de 7 personas? ¿Qué alternativa gratuita o barata hay?»
 
-## 6. Reglas anti-copia-pega
+## 7. Reglas anti-copia-pega
 
 1. **Tabla de huella** obligatoria: sin ella, la actividad no se califica.
 2. **Fuente verificada**: al menos una afirmación de Copilot contrastada con una fuente real y citada.
 3. La IA **propone**; el grupo **decide y justifica** con sus palabras.
 
-## 7. Entregable (Word online compartido)
+## 8. Entregable (Word online compartido)
 
 Un único documento por grupo con:
 - Bloque A: tabla de problemas y soluciones.
@@ -95,7 +119,7 @@ Un único documento por grupo con:
 - Bloque E: plan de 4 medidas.
 - Nombre de los miembros y roles.
 
-## 8. Temporalización
+## 9. Temporalización
 
 **Sesión 1 — martes 22/09 (45 min)**
 
@@ -113,9 +137,17 @@ Un único documento por grupo con:
 |---|---|
 | 0–15 | Bloque D: verificar con fuente real + tabla de huella |
 | 15–30 | Bloque E: plan de 4 medidas |
-| 30–45 | Bloque F: puesta en común y encaje de la teoría |
+| 30–45 | Bloque F: puesta en común de conclusiones (sin teoría) |
 
-## 9. Evaluación (RA1 · 80 % actividades)
+**Sesión 3 — teoría y refuerzo (45 min)**
+
+| Minutos | Actividad |
+|---|---|
+| 0–20 | Bloque G: de lo descubierto a la teoría (digitalización vs transformación, tipos, plan) |
+| 20–40 | Bloque H: reto rápido de fijación (semáforo de casos / caso imposible / caza el error) |
+| 40–45 | Cierre y enlace con IT/OT y el resto de la unidad |
+
+## 10. Evaluación (RA1 · 80 % actividades)
 
 **Instrumentos**: IE3 (resolución) + IE7 (investigación con IA) + IE13 (observación).
 
