@@ -100,6 +100,7 @@ La introducción de tecnología digital a menudo conlleva **cambios en la estruc
 La tecnología además da **flexibilidad**: la nube permite a las organizaciones ajustar sus operaciones con mayor rapidez y eficacia ante cambios del mercado.
 
 **Herramientas prácticas** (referencia del temario):
+
 - **Odoo**: software de ERP integrado de código abierto que cubre la mayor parte de las necesidades de una empresa (CRM, comercio electrónico, contabilidad, inventario, punto de venta, gestión de proyectos).
 - Gestión de personal: Odoo, SameHR, Turnos.
 - Gestión logística: Holded, StockAgile.
@@ -165,6 +166,7 @@ Dos ámbitos tecnológicos distintos dentro de la misma organización.
 El entorno IT se refiere al **conjunto de tecnologías y sistemas utilizados para gestionar la información y los datos** en una organización. Tradicionalmente se ha centrado en la infraestructura de tecnología, la gestión de datos, el desarrollo de software y la administración de los sistemas.
 
 **Principales características**:
+
 - **Enfoque en la información**: orientado principalmente al manejo, almacenamiento, procesamiento y transmisión de información y datos.
 - **Sistemas empresariales**: sistemas empresariales como los ERP, bases de datos, servidores y redes de computadoras.
 - **Desarrollo de software**: desarrollo, implementación y mantenimiento de aplicaciones utilizados en la organización.
@@ -193,6 +195,7 @@ En una empresa pequeña, es posible que Saray y Samuel no necesiten departamento
 El entorno OT se refiere a la tecnología utilizada para **supervisar y controlar los dispositivos y procesos físicos** en el ámbito operativo de una organización: industrias manufactureras, plantas de energía o sistemas de control industrial.
 
 **Principales características**:
+
 - **Enfoque en operaciones físicas**: sistemas que interactúan directamente con procesos físicos del mundo real: máquinas, sensores o dispositivos de control.
 - **Tiempo real**: la OT a menudo opera en tiempo real para controlar y supervisar procesos críticos que requieren respuestas inmediatas.
 - **Seguridad industrial**: históricamente enfocada en garantizar la seguridad física de las operaciones y la protección de los trabajadores. Actualmente en auge desde el punto de vista de la ciberseguridad, porque el mundo IoT irrumpe en planta.
@@ -200,6 +203,7 @@ El entorno OT se refiere a la tecnología utilizada para **supervisar y controla
 - **Dispositivos conectados**: uso de sensores y dispositivos conectados para recopilar datos del entorno físico.
 
 **Vocabulario clave**:
+
 - **SCADA** (*Supervisor and Control And Data Acquisition*): sistema de control supervisor y adquisición de datos.
 - **PLC** (*Programmable Logic Controller*): controlador lógico programable (autómata).
 - **DCS** (*Distributed Control System*): sistema de control distribuido.
@@ -211,6 +215,7 @@ Tradicionalmente, los entornos IT y OT han funcionado de manera **independiente*
 Esta convergencia implica la **integración y alineación** de tecnologías y procesos que históricamente han estado separados. La IT se centra en la gestión de la información y los sistemas empresariales; la OT, en el control y la supervisión de procesos físicos y operacionales. La convergencia busca crear una sinergia que permita una toma de decisiones más informada, mayor eficiencia operativa y una respuesta más ágil a las demandas del mercado.
 
 **Factores impulsores**:
+
 - **Digitalización de los procesos industriales** (Industria 4.0): la creciente necesidad de digitalizar y optimizar procesos industriales ha impulsado la convergencia para aprovechar las tecnologías digitales en tiempo real.
 - **IoT**: la proliferación de dispositivos IoT conectados tanto en el ámbito empresarial como en operaciones físicas ha creado la necesidad de una convergencia efectiva para gestionar y analizar grandes cantidades de datos generados.
 - **Necesidad de datos unificados**: la procedencia de datos es diversa e incluye fuentes de negocios internas tradicionales, sistemas relacionados con IT, sensores, dispositivos conectados a internet, redes sociales y otros elementos (estructurados y no estructurados). Integrarlas proporciona una base sólida para una supervisión empresarial más completa.
@@ -233,6 +238,7 @@ Los enfoques tienen objetivos diferentes, por lo que las tecnologías empleadas 
 El enfoque operativo se refiere a la **integración y aplicación de tecnologías digitales en los procesos y operaciones industriales**: transformación de sistemas y activos físicos en entornos industriales mediante la incorporación de tecnologías punteras y la conexión de dispositivos a través de IoT. Objetivo: mejorar la eficiencia operativa, la productividad y la toma de decisiones en el entorno de fabricación o producción.
 
 **Principales aspectos**:
+
 - **Automatización y control avanzado**: implementación de sistemas automatizados para controlar y monitorizar procesos en tiempo real, reduciendo la dependencia de la intervención humana.
 - **IoT y sensores**: uso extensivo de sensores y dispositivos conectados para recopilar datos operativos, permitiendo la monitorización continua y la optimización de procesos.
 - **Gemelos digitales**: creación de modelos digitales que repliquen procesos y sistemas físicos, facilitando la simulación, el análisis y la optimización virtual.
@@ -240,6 +246,7 @@ El enfoque operativo se refiere a la **integración y aplicación de tecnología
 - **Sistemas de gestión de activos (AMS)**: implementación de sistemas que permiten la monitorización y mantenimiento eficiente de activos físicos a lo largo de su ciclo de vida (equipamiento, maquinaria, infraestructura).
 
 **Vocabulario**:
+
 - **RA** (*Augmented Reality*): realidad aumentada.
 - **RV** (*Virtual Reality*): realidad virtual.
 
@@ -248,6 +255,7 @@ El enfoque operativo se refiere a la **integración y aplicación de tecnología
 El enfoque empresarial se refiere a la **aplicación de tecnologías digitales en las funciones y procesos relacionados con la gestión y operación de una organización**: adopción de herramientas digitales para mejorar la eficiencia en áreas como recursos humanos, finanzas, logística y relaciones con clientes. Objetivo: optimizar la toma de decisiones estratégicas, mejorar la experiencia del cliente y garantizar la eficiencia en las operaciones comerciales.
 
 **Principales aspectos**:
+
 - **Sistemas ERP**: plataformas integrales que unifican la gestión de procesos empresariales (finanzas, RR. HH., logística). La implementación de un sistema ERP permite unificar en un mismo lugar varios procesos empresariales.
 - **Analítica avanzada y big data**: utilización de análisis de grandes volúmenes de datos para obtener visiones estratégicas y tomar decisiones informadas.
 - **Inteligencia artificial y machine learning**: integración de sistemas inteligentes para automatizar procesos, mejorar la personalización y optimizar operaciones. **Machine learning**: tecnología que permite a las computadoras aprender y mejorar automáticamente con la experiencia, sin necesidad de ser programadas específicamente para cada tarea.

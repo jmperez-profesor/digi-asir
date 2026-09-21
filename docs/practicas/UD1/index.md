@@ -116,6 +116,7 @@ Síntesis oral: «¿Qué hemos descubierto? ¿Cómo lo llamamos ahora?». Se enl
 ## 8. Entregable (Word online compartido)
 
 Un único documento por grupo con:
+
 - Bloque A: tabla de problemas y soluciones.
 - Bloque B: diferencia digitalizar/transformar + ejemplos propios.
 - Bloque C: clasificación de soluciones por tipo de cambio.
