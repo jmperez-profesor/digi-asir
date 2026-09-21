@@ -11,6 +11,7 @@
 ### Bloque A — Exploración con Copilot
 
 **Problemas del taller que deberían aparecer:**
+
 - Sin presencia online (ni web, ni tienda, ni redes): dependen del boca a boca y de la clientela local.
 - Gestión de pedidos manual: pedidos perdidos, duplicados o mal anotados.
 - Inventario descontrolado: compran tela/hilo de más o se quedan sin stock en plena campaña.
@@ -19,6 +20,7 @@
 - Imagen de empresa desactualizada frente a competidores digitales.
 
 **Soluciones que suele proponer Copilot (y son válidas):**
+
 - Web corporativa + tienda online con catálogo.
 - ERP (Odoo, Holded) para pedidos, stock y facturación.
 - Redes sociales y catálogo digital.
@@ -34,6 +36,7 @@
 | Tienda online conectada al inventario | **Transformación** | Cambia el modelo de negocio (nuevo canal) y los procesos (stock automático). |
 
 **Ejemplos propios** (deben ser originales, no copiados de la IA):
+
 - *Digitalizar*: pasar la lista de clientes del cuaderno a Excel.
 - *Transformar*: un sistema de reservas online que avisa al cliente y actualiza la agenda solo.
 
@@ -56,6 +59,7 @@
 ### Bloque D — Verificación y tabla de huella
 
 Ejemplo de verificación real:
+
 - **Afirmación de Copilot**: «Odoo es gratuito para una empresa pequeña».
 - **Contraste**: Odoo tiene una versión Community gratuita, pero el alojamiento, la implantación y los módulos avanzados se pagan. Fuente: web oficial de Odoo / comparativas.
 - **Conclusión del grupo**: aceptamos que hay versión gratuita, pero matizamos que el coste real está en la puesta en marcha.
