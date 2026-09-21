@@ -166,3 +166,20 @@ Un único documento por grupo con:
 
 !!! tip "Truco para el aula"
     Como el Word es compartido, en la puesta en común puedes proyectar un documento de cada grupo y ver *quién escribió qué* (historial de versiones). Eso te da evidencia objetiva del reparto de trabajo sin depender solo de la observación.
+
+## 11. Rúbrica de evaluación
+
+!!! download "Rúbrica para Moodle (CSV)"
+    [Descargar la rúbrica en CSV](rubrica_impresionarte_moodle.csv){ .md-button .md-button--primary }
+    Formato de dos filas por criterio: fila 1 = descripción y definiciones de nivel; fila 2 = puntuaciones. Total: **100 puntos**.
+
+| Criterio | Excelente | Bien | Suficiente | Insuficiente |
+|---|---|---|---|---|
+| **Explica la diferencia digitalización/transformación** (20) | Define con precisión el alcance del cambio y aporta ejemplos propios distintos de la IA (20) | Define correctamente y usa ejemplos válidos aunque poco originales (15) | Distingue de forma básica, con ejemplos imprecisos o copiados (10) | Confunde ambos conceptos o no justifica (0) |
+| **Clasifica las soluciones por tipo de cambio** (20) | Clasifica todas y justifica cada elección (20) | Clasifica la mayoría correctamente y justifica (15) | Clasifica sin justificar o con algún error (10) | No clasifica o clasifica mal (0) |
+| **Plan de digitalización coherente y priorizado** (25) | 4+ medidas priorizadas con problema, tipo, herramienta, coste y riesgo (25) | 4 medidas correctas con algún dato poco justificado (19) | Menos de 4 medidas o sin priorizar (13) | Plan incoherente o copiado sin adaptar (0) |
+| **Uso crítico de la IA: huella y fuente** (20) | Tabla de huella completa + fuente real verificada y citada (20) | Tabla completa y fuente citada, poco contrastada (15) | Tabla incompleta o fuente genérica (10) | Sin tabla de huella (0) |
+| **Participación, rol y claridad al exponer** (15) | Roles asumidos, aportaciones equilibradas y exposición clara (15) | Buen reparto y exposición correcta (11) | Participación desigual o exposición mejorable (8) | No participa ni expone (0) |
+
+!!! note "Cómo importarla en Moodle"
+    Moodle **no tiene importación nativa de rúbricas por CSV**. El CSV está en el formato de **dos filas por criterio** que usan los importadores *Moodle Rubric Importer* y *MoodlIA Rubrics* (extensiones de navegador). Si no dispones de ellos, usa la tabla de arriba para crear la rúbrica a mano en **Calificación avanzada → Rúbrica**.
