@@ -131,7 +131,7 @@ Ejemplo de tabla de huella:
 ## Parte 3. Preguntas que te pueden hacer (y respuestas)
 
 !!! question "¿Tenemos que usar Copilot obligatoriamente o podemos usar ChatGPT?"
-    Para esta actividad usamos **Copilot** porque está integrado en Microsoft 365 del centro y garantiza protección de datos. Si alguien no tiene acceso, puede usar otra IA, pero debe indicarlo en el documento.
+    Podéis usar **la IA que tengáis disponible** (ChatGPT, Gemini o Copilot). No todos los alumnos tienen el mismo acceso a Copilot que el profesorado, así que está permitido cualquiera de ellas; solo hay que **indicar en el documento cuál se ha usado**. Las reglas de uso crítico son idénticas para todas.
 
 !!! question "¿Cuántas medidas tiene que tener el plan?"
     Mínimo **4**. Si os da tiempo y están bien justificadas, podéis añadir más, pero es mejor 4 sólidas que 8 sin justificar.
@@ -161,7 +161,19 @@ Ejemplo de tabla de huella:
     Sí. Word online guarda el historial de versiones y los cambios por autor. Por eso pedimos que cada uno escriba en su sección.
 
 !!! question "¿La IA cuenta como fuente? ¿Hay que citarla?"
-    La IA es una **herramienta**, no una fuente. Se cita la fuente real que confirma el dato, no la respuesta de Copilot.
+    **La IA no es una fuente: es una herramienta.** ChatGPT/Gemini/Copilot responden con su conocimiento entrenado, sin origen verificable, y pueden inventarse datos (alucinaciones). **No se cita «ChatGPT» como fuente.** Se cita la **fuente real** (web oficial, página de precios, noticia, dato oficial) que confirma el dato concreto.
+
+!!! question "¿Y si la IA responde de su propio conocimiento, sin dar enlaces? ¿Qué pongo en fuentes?"
+    Eso es justo lo normal en IA generativa: su respuesta es el **punto de partida**, no una fuente. Para verificar, busca ese dato concreto en una fuente real y cítala. Ejemplo: la IA dice «Odoo es gratis» → lo compruebas en la web oficial de Odoo (hay versión Community gratuita y planes de pago) → esa web es la fuente. Si no encuentras confirmación, lo marcas como **«sin verificar»**.
+
+!!! question "La IA nos ha dado un enlace. ¿Vale como fuente?"
+    Solo si lo **abres y compruebas** que existe y que dice lo que la IA afirma. Las IAs a veces inventan enlaces o citan páginas que no contienen el dato. Un enlace sin comprobar no es una fuente.
+
+!!! question "¿Cómo se cita una fuente?"
+    Formato: `Web. "Título de la página". URL (consultado el dd/mm/aaaa)`. Ejemplo: `Odoo. "Pricing". https://www.odoo.com/pricing (consultado el 27/09/2026)`.
+
+!!! question "No tengo acceso a Copilot, ¿puedo usar ChatGPT o Gemini?"
+    Sí. Podéis usar **la IA que tengáis disponible** (ChatGPT, Gemini o Copilot); solo hay que indicar en el documento cuál se ha usado. Las reglas de uso crítico son las mismas para todas.
 
 !!! question "¿Qué pasa si Copilot nos da una respuesta en inglés o muy larga?"
     Pedidle: «responde en español y en una tabla de 5 filas». Aprender a pedir bien es parte del ejercicio.

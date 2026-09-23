@@ -5,11 +5,14 @@
     Listo para compartir por Teams/OneDrive y que cada grupo lo rellene en edición.
 
 > **Metodología**: Aprendizaje Basado en Descubrimiento (ABD). **No se ha visto teoría**: el alumnado construye los conceptos investigando con IA y los pone en común después.
-> **Herramientas**: Microsoft Copilot + documento de Word online compartido en edición con el grupo y con el profesor.
+> **Herramientas**: **una IA generativa** (ChatGPT, Gemini o Copilot — la que tenga disponible cada grupo) + documento de Word online compartido en edición con el grupo y con el profesor.
 > **Secuencia**: 22/09 exploración · 27/09 cierre del reto · S3 teoría y actividad rápida.
 
 !!! question "¿Por qué dos sesiones para el reto y una tercera de teoría?"
-    Con 45 min, entre acceder al Word, compartirlo en edición y abrir Copilot se van ~10 min. Quedan 30–35 min reales: suficientes para **explorar y empezar** (22/09) y para **cerrar y compartir** (27/09), pero no para descubrir, contrastar, redactar, exponer *y además* formalizar la teoría. Por eso la S3 se reserva a **poner nombre a lo descubierto** con una actividad rápida de refuerzo. Intentarlo todo en un día obliga a correr y convierte el descubrimiento en copia-pega.
+    Con 45 min, entre acceder al Word, compartirlo en edición y abrir la IA se van ~10 min. Quedan 30–35 min reales: suficientes para **explorar y empezar** (22/09) y para **cerrar y compartir** (27/09), pero no para descubrir, contrastar, redactar, exponer *y además* formalizar la teoría. Por eso la S3 se reserva a **poner nombre a lo descubierto** con una actividad rápida de refuerzo. Intentarlo todo en un día obliga a correr y convierte el descubrimiento en copia-pega.
+
+!!! info "Nota: cada grupo usa la IA que pueda"
+    No todos los alumnos tienen el mismo acceso a Copilot que el profesorado. Está permitido usar **ChatGPT, Gemini o Copilot** (la que esté disponible), indicando en el documento **cuál se ha usado**. Las reglas de uso crítico son las mismas para todas.
 
 ## 1. Situación de partida
 
@@ -26,7 +29,7 @@ Sara y Samuel dirigen el único taller de impresión textil de su localidad (7 p
 | Rol | Función |
 |---|---|
 | **Coordinador/a** | Controla el tiempo y que todas las preguntas queden respondidas |
-| **Piloto de Copilot** | Escribe los prompts y pega las respuestas en el documento |
+| **Piloto de IA** | Escribe los prompts y pega las respuestas en el documento |
 | **Analista** | Decide qué respuestas de la IA son válidas y rellena la tabla de huella |
 | **Portavoz** | Presenta las conclusiones en la puesta en común del 27/09 |
 
@@ -34,15 +37,15 @@ Sara y Samuel dirigen el único taller de impresión textil de su localidad (7 p
 
 > Objetivo: entender el problema de ImpresiónArte y empezar a descubrir, sin teoría, qué soluciones existen y de qué tipo son.
 
-### Bloque A — Exploración con Copilot (15 min)
+### Bloque A — Exploración con la IA (15 min)
 
-1. Abrid Copilot y pedidle que analice el caso de ImpresiónArte.
+1. Abrid vuestra IA (ChatGPT, Gemini o Copilot) y pedidle que analice el caso de ImpresiónArte.
 2. Preguntadle **qué problemas concretos** tiene el taller y **qué soluciones** propone.
 3. Volcad las 5 ideas que os parezcan más importantes en la tabla del documento.
 
 ### Bloque B — Descubrir la diferencia (10 min)
 
-Preguntad a Copilot: *«¿Qué diferencia hay entre digitalizar y transformar digitalmente?»* y responded en el documento con vuestras palabras:
+Preguntad a la IA: *«¿Qué diferencia hay entre digitalizar y transformar digitalmente?»* y responded en el documento con vuestras palabras:
 
 - ¿Escanear las facturas en papel es digitalizar o transformar? ¿Por qué?
 - ¿Abrir una tienda online que se conecta sola con el inventario es digitalizar o transformar? ¿Por qué?
@@ -50,7 +53,7 @@ Preguntad a Copilot: *«¿Qué diferencia hay entre digitalizar y transformar di
 
 ### Bloque C — Descubrir los tipos de cambio (10 min)
 
-Preguntad a Copilot *«¿Qué tipos de transformación digital existen?»* y clasificad las soluciones del Bloque A según el tipo de cambio que suponen. Rellenad la tabla.
+Preguntad a la IA *«¿Qué tipos de transformación digital existen?»* y clasificad las soluciones del Bloque A según el tipo de cambio que suponen. Rellenad la tabla.
 
 ### Cierre de la sesión 1 (5 min)
 
@@ -62,8 +65,8 @@ Cada grupo guarda el documento (queda en la nube, compartido) y anota **una duda
 
 ### Bloque D — Verificar y decidir (15 min)
 
-1. Elegid **una afirmación de Copilot** (un precio, una herramienta, un dato) y **contrastadla** con una fuente real (web oficial, catálogo, noticia). Citad la fuente.
-2. Rellenad la **tabla de huella**: *qué dijo la IA / qué aceptamos / qué cambiamos y por qué*.
+1. Elegid **una afirmación de la IA** (un precio, una herramienta, un dato) y **contrastadla** con una fuente real (web oficial, catálogo, noticia). Citad la fuente (ver [§7.2](#72-que-es-una-fuente-la-ia-no-lo-es)).
+2. Rellenad la **tabla de huella** (ver [§7.1](#71-la-tabla-de-huella-obligatoria)).
 
 ### Bloque E — Primer plan de digitalización (15 min)
 
@@ -97,7 +100,7 @@ Actividad corta de refuerzo (una de estas, a elección del profesor):
 
 Síntesis oral: «¿Qué hemos descubierto? ¿Cómo lo llamamos ahora?». Se enlaza con el resto de la unidad (IT/OT, tecnologías en planta y negocio).
 
-## 6. Prompts sugeridos para Copilot
+## 6. Prompts sugeridos para la IA
 
 > **Prompt 1** — «Analiza este caso: un taller de impresión textil de 7 personas, sin web ni tienda online, gestión manual de pedidos e inventario, con caída de ventas desde 2020. ¿Qué problemas tiene y qué soluciones digitales propondrías?»
 
@@ -105,12 +108,60 @@ Síntesis oral: «¿Qué hemos descubierto? ¿Cómo lo llamamos ahora?». Se enl
 
 > **Prompt 3** — «¿Qué tipos de transformación digital existen? Clasifica estas soluciones [pegar las del Bloque A] según su tipo.»
 
-> **Prompt 4** — «¿Cuánto costaría aproximadamente [herramienta concreta] para una empresa de 7 personas? ¿Qué alternativa gratuita o barata hay?»
+> **Prompt 4** — «¿Cuánto costaría aproximadamente [herramienta concreta] para una empresa de 7 personas? ¿Qué alternativa gratuita o barata hay? Dame también la web oficial donde comprobarlo.»
 
-## 7. Reglas anti-copia-pega
+!!! tip "Truco"
+    Pídele siempre a la IA **de dónde sale el dato** («¿en qué web lo puedo comprobar?»). Así te da el punto de partida para verificar. Si no da ninguna referencia o inventa un enlace, ese dato es **poco fiable**.
+
+## 7. Uso crítico de la IA: huella y fuentes
+
+### 7.1. La tabla de huella (obligatoria)
+
+La **tabla de huella** es el registro de vuestro diálogo con la IA. No es un resumen de la respuesta: es la **memoria de vuestras decisiones**. Sirve para demostrar que la IA fue el punto de partida y que **vosotros decidisteis**.
+
+Tiene **tres columnas**:
+
+| Qué propuso la IA | ¿Lo aceptamos? | ¿Qué cambiamos y por qué? |
+|---|---|---|
+| *(resumen de la propuesta, con vuestras palabras)* | *Sí / No / En parte* | *(vuestra decisión y el motivo, adaptado a ImpresiónArte)* |
+
+**Ejemplo real de una fila bien hecha:**
+
+| Qué propuso la IA | ¿Lo aceptamos? | ¿Qué cambiamos y por qué? |
+|---|---|---|
+| Contratar un ERP de pago | En parte | Empezamos con la versión gratuita (Odoo Community) y valoramos migrar después: con 7 personas no se amortiza una licencia grande. |
+
+**Regla de oro:** si en toda la tabla ponéis «Sí» a todo, está mal hecha. La IA siempre propone cosas que hay que **matizar, recortar o descartar**. Y hay que decir **por qué**.
+
+### 7.2. ¿Qué es una fuente? (la IA no lo es)
+
+!!! warning "Importante"
+    **La IA no es una fuente.** ChatGPT, Gemini o Copilot responden con su conocimiento entrenado, sin un origen verificable, y pueden **inventarse datos** (alucinaciones). Por eso **nunca se cita «ChatGPT» como fuente**.
+
+Una **fuente** es un **documento real y externo que confirma un dato concreto**. Ejemplos válidos:
+
+- La **web oficial** de la herramienta (odoo.com, holded.com, shopify.com…).
+- Una **página de precios** o un comparador de productos.
+- Una **noticia** o un **caso real** de empresa digitalizada.
+- **Datos oficiales** (INE, Kit Digital, Correos Market…).
+
+**Cómo se hace la verificación:**
+
+1. La IA te dice algo → eso es una **hipótesis**, no un dato.
+2. Buscas ese dato en una fuente real y compruebas si coincide.
+3. Si coincide, la citas. Si no coincide o no la encuentras, lo marcas como **«sin verificar»** y lo tratas con cautela.
+
+**Formato de cita:** `Web. "Título de la página". URL (consultado el dd/mm/aaaa)`.
+
+**Ejemplo:** la IA dice que Odoo es gratis → lo compruebas en `Odoo. "Pricing". https://www.odoo.com/pricing (consultado el 27/09/2026)` → ves que hay versión Community gratuita y planes de pago → lo anotáis en la tabla de huella.
+
+!!! note "Si la IA te da un enlace…"
+    Ábrelo y compruébalo. Las IAs a veces inventan enlaces que no existen o que no dicen lo que ellas creen. Un enlace sin comprobar no es una fuente.
+
+### 7.3. Las tres reglas
 
 1. **Tabla de huella** obligatoria: sin ella, la actividad no se califica.
-2. **Fuente verificada**: al menos una afirmación de Copilot contrastada con una fuente real y citada.
+2. **Fuente verificada**: al menos una afirmación de la IA contrastada con una fuente real y citada.
 3. La IA **propone**; el grupo **decide y justifica** con sus palabras.
 
 ## 8. Entregable (Word online compartido)
@@ -131,7 +182,7 @@ Un único documento por grupo con:
 | Minutos | Actividad |
 |---|---|
 | 0–10 | Acceso al Word online, compartir en edición, formar grupos y repartir roles |
-| 10–25 | Bloque A: exploración con Copilot |
+| 10–25 | Bloque A: exploración con la IA |
 | 25–35 | Bloque B: descubrir la diferencia digitalizar/transformar |
 | 35–43 | Bloque C: descubrir los tipos de cambio |
 | 43–45 | Guardar y anotar la duda para el 27/09 |
